@@ -2,7 +2,7 @@ package com.nilhcem.droidconae;
 
 import android.os.Build;
 
-import com.frogermcs.dagger2metrics.Dagger2Metrics;
+import com.frogermcs.androiddevmetrics.AndroidDevMetrics;
 import com.nilhcem.droidconae.core.dagger.AppComponent;
 import com.nilhcem.droidconae.debug.lifecycle.ActivityProvider;
 import com.nilhcem.droidconae.debug.stetho.StethoInitializer;
@@ -22,7 +22,7 @@ public class InternalDroidconApp extends DroidconApp {
     /**
      * Change it manually when you want to enable Dagger 2 metrics
      */
-    private static final boolean ENABLE_DAGGER2_METRICS = false;
+    private static final boolean ENABLE_ANDROID_DEV_METRICS = false;
 
     @Inject StethoInitializer stetho;
     @Inject ActivityProvider activityProvider;
@@ -54,8 +54,8 @@ public class InternalDroidconApp extends DroidconApp {
     }
 
     private void initDagger2Metrics() {
-        if (ENABLE_DAGGER2_METRICS) {
-            Dagger2Metrics.enableCapturing(this);
+        if (ENABLE_ANDROID_DEV_METRICS) {
+            AndroidDevMetrics.initWith(this);
         }
     }
 }

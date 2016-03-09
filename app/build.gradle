@@ -9,7 +9,7 @@ buildscript {
         classpath 'me.tatarka:gradle-retrolambda:3.2.4'
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
         classpath 'com.jakewharton.hugo:hugo-plugin:1.2.1'
-        classpath 'com.frogermcs.dagger2metrics:dagger2metrics-plugin:0.2.1'
+        classpath 'com.frogermcs.androiddevmetrics:androiddevmetrics-plugin:0.3.1'
         classpath 'org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:1.2'
     }
 }
@@ -22,7 +22,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'me.tatarka.retrolambda'
 apply plugin: 'com.neenbedankt.android-apt'
 apply plugin: 'com.jakewharton.hugo'
-apply plugin: 'com.frogermcs.dagger2metrics'
+apply plugin: 'com.frogermcs.androiddevmetrics'
 apply from: rootProject.file('settings/gradle/jacoco.gradle')
 apply from: rootProject.file('settings/gradle/sonarqube.gradle')
 
