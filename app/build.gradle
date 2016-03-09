@@ -6,7 +6,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'me.tatarka:gradle-retrolambda:3.2.4'
+        classpath 'me.tatarka:gradle-retrolambda:3.2.5'
         classpath 'com.neenbedankt.gradle.plugins:android-apt:1.8'
         classpath 'com.jakewharton.hugo:hugo-plugin:1.2.1'
         classpath 'com.frogermcs.androiddevmetrics:androiddevmetrics-plugin:0.3.1'
@@ -102,12 +102,12 @@ android {
 }
 
 ext.daggerVersion = '2.0.2'
-ext.fragmentargsVersion = '3.0.1'
+ext.fragmentargsVersion = '3.0.2'
 ext.icepickVersion = '3.1.0'
 ext.intentbuilderVersion = '0.14.0'
-ext.okhttpVersion = '3.1.0'
+ext.okhttpVersion = '3.2.0'
 ext.retrofitVersion = '2.0.0-beta4'
-ext.stethoVersion = '1.3.0'
+ext.stethoVersion = '1.3.1'
 ext.supportVersion = '23.2.0'
 
 dependencies {
@@ -120,7 +120,7 @@ dependencies {
     compile "com.android.support:design:$supportVersion"
     compile "com.android.support:customtabs:$supportVersion"
 
-    provided 'org.projectlombok:lombok:1.16.6'
+    provided 'org.projectlombok:lombok:1.16.8'
 
     compile 'net.sourceforge.streamsupport:streamsupport:1.4.2'
 
@@ -136,10 +136,10 @@ dependencies {
     compile "com.squareup.retrofit2:adapter-rxjava:$retrofitVersion"
 
     compile 'io.reactivex:rxandroid:1.1.0'
-    compile 'io.reactivex:rxjava:1.1.0'
+    compile 'io.reactivex:rxjava:1.1.1'
 
     compile 'com.jakewharton:butterknife:7.0.1'
-    compile 'com.jakewharton.timber:timber:4.1.0'
+    compile 'com.jakewharton.timber:timber:4.1.1'
     compile 'com.squareup.moshi:moshi:1.1.0'
 
     compile "frankiesardo:icepick:$icepickVersion"
@@ -151,7 +151,7 @@ dependencies {
     compile "com.hannesdorfmann.fragmentargs:annotation:$fragmentargsVersion"
     apt "com.hannesdorfmann.fragmentargs:processor:$fragmentargsVersion"
 
-    compile 'com.squareup.sqlbrite:sqlbrite:0.5.0'
+    compile 'com.squareup.sqlbrite:sqlbrite:0.5.1'
 
     compile 'com.jakewharton.threetenabp:threetenabp:1.0.3'
 
@@ -167,7 +167,7 @@ dependencies {
         exclude group: 'com.jakewharton.timber'
     }
     internalCompile "com.facebook.stetho:stetho-js-rhino:$stethoVersion"
-    internalCompile 'com.google.code.gson:gson:2.6.1'
+    internalCompile 'com.google.code.gson:gson:2.6.2'
 
     testCompile 'junit:junit:4.12'
     testCompile 'com.google.truth:truth:0.28'
