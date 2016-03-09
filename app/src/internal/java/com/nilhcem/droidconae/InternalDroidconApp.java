@@ -20,7 +20,7 @@ public class InternalDroidconApp extends DroidconApp {
     private static final boolean DISPLAY_FPS = false;
 
     /**
-     * Change it manually when you want to enable Dagger 2 metrics
+     * Change it manually when you want to enable AndroidDevMetrics
      */
     private static final boolean ENABLE_ANDROID_DEV_METRICS = false;
 
