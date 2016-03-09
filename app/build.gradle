@@ -33,7 +33,7 @@ android {
     buildToolsVersion '23.0.2'
 
     defaultConfig {
-        applicationId 'com.nilhcem.droidcontn'
+        applicationId 'com.nilhcem.droidconae'
         versionCode 3
         versionName '1.2'
 
@@ -42,7 +42,7 @@ android {
         resConfigs 'en', 'fr'
 
         buildConfigField 'String', 'GIT_SHA', "\"${gitSha}\""
-        buildConfigField 'String', 'API_ENDPOINT', "\"https://raw.githubusercontent.com/Nilhcem/droidcontn-2016/master/assets/api/\""
+        buildConfigField 'String', 'API_ENDPOINT', "\"https://raw.githubusercontent.com/Nilhcem/droidconae-2016/master/assets/api/\""
     }
 
     buildTypes {

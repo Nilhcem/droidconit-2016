@@ -1,13 +1,13 @@
-# Droidcon Tunisia 2016 Conference App
+# Droidcon Dubai 2016 Conference App
 
-Sample app for the "2016 Android Developer Toolbox" talk at droidcon tunisia
+Sample app for the "2016 Android Developer Toolbox" talk at droidcon Dubai
 
 [<img src="https://dply.me/bc1bx1/button/large" alt="Try it on your device via DeployGate">](https://dply.me/bc1bx1#install)
 
 
 ## Features
 
-![droidcontn2016 Android screenshots][]
+![droidconae2016 Android screenshots][]
 
 * See all sessions
 * Manage your schedule
@@ -65,7 +65,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 ```
 
-[droidcontn2016 Android screenshots]: https://raw.githubusercontent.com/Nilhcem/droidcontn-2016/master/assets/screenshots/screenshots.jpg
+[droidconae2016 Android screenshots]: https://raw.githubusercontent.com/Nilhcem/droidconae-2016/master/assets/screenshots/screenshots.jpg
 [Droidcon PL 2015 mobile app]: https://github.com/droidconpl/droidcon-2015-mobile-app
 [Google I/O app]: https://github.com/google/iosched
 [DroidKaigi 2016 app]: https://github.com/konifar/droidkaigi2016/
