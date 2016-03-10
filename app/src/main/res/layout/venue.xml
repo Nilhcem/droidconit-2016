@@ -19,7 +19,7 @@
             android:contentDescription="@null"
             android:scaleType="fitXY"
             android:src="@drawable/venue"
-            tools:layout_height="200dp"/>
+            tools:layout_height="180dp"/>
 
         <LinearLayout
             android:layout_width="match_parent"
@@ -33,25 +33,27 @@
                 style="@style/Venue.Title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_medina_title"/>
+                android:text="@string/venue_impacthub_title"/>
 
             <TextView
                 style="@style/Venue.Content"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_medina_content"/>
+                android:text="@string/venue_impacthub_address"/>
 
             <TextView
                 style="@style/Venue.Title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_convention_title"/>
+                android:text="@string/venue_directions_title"/>
 
             <TextView
+                android:id="@+id/venue_directions"
                 style="@style/Venue.Content"
                 android:layout_width="match_parent"
+                android:linksClickable="true"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_convention_content"/>
+                tools:text="@string/venue_directions_content"/>
         </LinearLayout>
 
         <android.support.v7.widget.AppCompatButton

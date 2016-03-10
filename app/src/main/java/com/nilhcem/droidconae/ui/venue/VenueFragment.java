@@ -4,11 +4,14 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.Snackbar;
+import android.text.Html;
+import android.text.method.LinkMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver;
 import android.widget.ImageView;
+import android.widget.TextView;
 
 import com.nilhcem.droidconae.R;
 import com.nilhcem.droidconae.ui.BaseFragment;
@@ -22,9 +25,10 @@ import butterknife.OnClick;
 public class VenueFragment extends BaseFragment {
 
     @Bind(R.id.venue_image) ImageView photo;
+    @Bind(R.id.venue_directions) TextView directions;
 
-    private static final float PHOTO_RATIO = 0.404f;
-    private static final String COORDINATES_URI = "geo:36.369198,10.534286?q=" + Uri.encode("Medina Yasmine Hammamet, Tunisia");
+    private static final float PHOTO_RATIO = 0.357f;
+    private static final String COORDINATES_URI = "geo:25.1931753,55.2745114?q=" + Uri.encode("Impact HUB Dubai");
 
     @Override
     protected BaseFragmentPresenter newPresenter() {
@@ -40,6 +44,7 @@ public class VenueFragment extends BaseFragment {
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
         super.onViewCreated(view, savedInstanceState);
         initPhotoSize();
+        initDirections();
     }
 
     @OnClick(R.id.venue_locate)
@@ -64,5 +69,10 @@ public class VenueFragment extends BaseFragment {
                 }
             }
         });
+    }
+
+    private void initDirections() {
+        directions.setText(Html.fromHtml(getString(R.string.venue_directions_content)));
+        directions.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }
