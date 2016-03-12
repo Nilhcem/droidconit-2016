@@ -11,6 +11,7 @@ import javax.inject.Singleton;
 
 import dagger.Module;
 import dagger.Provides;
+import rx.schedulers.Schedulers;
 import timber.log.Timber;
 
 @Module
@@ -27,6 +28,6 @@ public class DatabaseModule {
     }
 
     @Provides @Singleton BriteDatabase provideBriteDatabase(SqlBrite sqlBrite, SQLiteOpenHelper helper) {
-        return sqlBrite.wrapDatabaseHelper(helper);
+        return sqlBrite.wrapDatabaseHelper(helper, Schedulers.immediate());
     }
 }

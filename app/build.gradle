@@ -151,7 +151,7 @@ dependencies {
     compile "com.hannesdorfmann.fragmentargs:annotation:$fragmentargsVersion"
     apt "com.hannesdorfmann.fragmentargs:processor:$fragmentargsVersion"
 
-    compile 'com.squareup.sqlbrite:sqlbrite:0.5.1'
+    compile 'com.squareup.sqlbrite:sqlbrite:0.6.2'
 
     compile 'com.jakewharton.threetenabp:threetenabp:1.0.3'
 
