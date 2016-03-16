@@ -1,6 +1,6 @@
 {
-  "name": "droidconae2016-mock-server",
-  "description": "Droidcon Dubai 2016 Mock Server",
+  "name": "droidconit2016-mock-server",
+  "description": "Droidcon Italy 2016 Mock Server",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
