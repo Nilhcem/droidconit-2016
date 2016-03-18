@@ -49,11 +49,10 @@ public class SpeakersListPresenter extends BaseFragmentPresenter<SpeakersListVie
 
     private void loadData() {
         speakersSubscription = dataProvider.getSpeakers()
-                .map(speakers -> {
+                .doOnNext(speakers -> {
                     if (speakers != null) {
                         Collections.shuffle(speakers);
                     }
-                    return speakers;
                 })
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
