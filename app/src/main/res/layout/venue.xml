@@ -33,13 +33,13 @@
                 style="@style/Venue.Title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_longotto_title"/>
+                android:text="@string/venue_lingotto_title"/>
 
             <TextView
                 style="@style/Venue.Content"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_longotto_content"/>
+                android:text="@string/venue_lingotto_content"/>
 
             <TextView
                 style="@style/Venue.Title"
