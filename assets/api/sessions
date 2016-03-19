@@ -303,7 +303,7 @@
   "title": "Introduction to Google Project Tango and Intel RealSense technologies and usages",
   "description": "RealSense and Tango are projects which objective is to bring complete motion and space understanding to apps, by using specific cameras integrated into devices.\nYou’ll discover what are the different SDKs and cameras, how to use these that are becoming available to consumers really soon, and see what amazing products and new usages other developers have already started to work on.\nI can present Google Tango, its devkits (include the new one from Intel), the SDK, and apps and usages that can be done using such technologies."
 }, {
-  "id": 30,
+  "id": 39,
   "startAt": "2016-04-08 10:20",
   "duration": 50,
   "roomId": 4,
@@ -311,7 +311,7 @@
   "title": "Build an efficient REST Client on Android",
   "description": "It is important to limit and optimise network traffic in mobile communications.\nA well designed rest client is the best you can do in order to save network bandwidth and increase your online app responsiveness.\nThis talk is focused on how to create an optimal rest client with persistent cache in Android using HTTP/2, Retrofit, OkHttp and Realm while relying on an AppEngine hosted backend."
 }, {
-  "id": 30,
+  "id": 40,
   "startAt": "2016-04-08 11:10",
   "duration": 30,
   "roomId": 1,
@@ -319,7 +319,7 @@
   "title": "Improving Appstore Rank: Best Practices (& Tactics to Avoid)",
   "description": "How far would you go to make your app successful? Everyone has a strategy, and as an app publisher, Amazon has seen the good, the bad, and the ugly. Hear the tactics that will get you banned or blacklisted, along with best practices for actually achieving the results you want: more downloads, good reviews, and high monetization."
 }, {
-  "id": 31,
+  "id": 41,
   "startAt": "2016-04-08 11:10",
   "duration": 30,
   "roomId": 2,
@@ -327,7 +327,7 @@
   "title": "We are all on Team UX",
   "description": "Designers and developers can make a powerful team, but we’ve noticed that sometimes miscommunication or differing perspectives can keep the product from reaching its full potential.\n\nIn our talk we give you practical tools to facilitate productive communication between developers and designers & increase the overall user experience of your products. Gain insight into how designers think and work, and learn some methods to have more effective working relationships between designers and developers."
 }, {
-  "id": 32,
+  "id": 43,
   "startAt": "2016-04-08 11:10",
   "duration": 30,
   "roomId": 3,
@@ -335,7 +335,7 @@
   "title": "Facebook Infer: A static analyzer for catching bugs before you ship",
   "description": "Static analyzers are automated tools that spot bugs in source code by scanning programs without running them. They complement traditional dynamic testing: Where testing allows individual runs through a piece of software to be checked for correctness, static analysis allows multiple and sometimes even all flows to be checked at once. Infer is a static analyzer that is used internally to analyze the main Facebook apps for Android and iOS, Facebook Messenger, and Instagram, among others. Infer reports bugs which are responsible for app crashes and performance issues, such as accessing null pointers, and leaking resources such as Context instances.\n\nEach month, hundreds of potential bugs identified by Facebook Infer are fixed by our developers before they are committed to our codebases and deployed to people’s phones. Facebook Infer is open source (http://fbinfer.com/) so you can use it yourself.\n\nThis talk will show how to use Infer as part of the development workflow, and will present some of the results obtained on some real Android apps."
 }, {
-  "id": 33,
+  "id": 44,
   "startAt": "2016-04-08 11:10",
   "duration": 30,
   "roomId": 4,
@@ -343,7 +343,7 @@
   "title": "Android Reactive Programming with RxJava",
   "description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve, it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. I’ll show how to enjoy RxAndroid Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API.\n\nPS\nI know you read this abstract with Don LaFontaine’s voice."
 }, {
-  "id": 34,
+  "id": 45,
   "startAt": "2016-04-08 11:40",
   "duration": 30,
   "roomId": 0,
@@ -351,7 +351,7 @@
   "title": "Coffee break",
   "description": null
 }, {
-  "id": 35,
+  "id": 46,
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 1,
@@ -359,7 +359,7 @@
   "title": "Microsoft",
   "description": null
 }, {
-  "id": 36,
+  "id": 47,
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 2,
@@ -367,7 +367,7 @@
   "title": "Essential tools and tips for an effective design workflow",
   "description": "The beginning of my career as a designer has been quite tough… While in the iOS fairytale world I had to design for few devices, Android was challenging me with his army made of thousand different screens…\nAnd often I didn’t have any clue if what I was doing was right. I was constantly asking myself: how does an Android designer work? Which tools does he/she use? Are there any tips/rules/best practices? I’d like to try to answer these questions with you at this Droidcon"
 }, {
-  "id": 37,
+  "id": 48,
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 3,
@@ -375,7 +375,7 @@
   "title": "Fresco: a powerful system by Facebook for displaying images in Android applications",
   "description": "Fresco is a powerful system, developed by Facebook, for displaying images in Android applications. It takes care of image loading and display so you don’t have to. Fresco’s image pipeline will load images from the network, local storage, or local resources. To save data and CPU, it has three levels of cache; two in memory and another in internal storage. Fresco’s Drawees show a placeholder for you until the image has loaded and automatically show to the image when it arrives. When the image goes off-screen, it automatically releases its memory. In this talk we’ll see how Fresco works, how to use it into your application and how to contribute to improve it"
 }, {
-  "id": 38,
+  "id": 49,
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 4,
@@ -383,7 +383,7 @@
   "title": "IoT – with and against – Android",
   "description": "RunTastic’s Christianus Kaar is a prime example for the success of building hardware: he transformed his easy-to-intimidate firm into a powerhouse owned by Germany’s most powerful media company.\nThis story looks at the various ways an Android device can be made to communicate with real hardware.\nLook forward to a demonstration of obscure and common techniques ranging from the use of the headphone output to Bluetooth LE, the ADK and a large variety of other ways to make real things go beep and boom."
 }, {
-  "id": 39,
+  "id": 50,
   "startAt": "2016-04-08 12:50",
   "duration": 40,
   "roomId": 1,
@@ -391,7 +391,7 @@
   "title": "You can do better with Kotlin",
   "description": "The Kotlin programming language is gaining popularity amongst the Android developer community. It’s a modern language that gives more power in everyday routines. Kotlin code generally looks cleaner and nicer, and it’s much easier to work with when you have less verbosity or code duplication. And this is especially noticeable comparing with the soon-to-be-archaic versions of Java used on Android.\n\nBut what’s even more important, is that Kotlin is 100% compatible with all existing Java frameworks, and has good tooling in Android Studio and IntelliJ IDEA. It’s a pragmatic language with a very low learning curve, and can be quickly grasped by Java developers.\n\nIn this talk we’ll discuss the concepts of the language that provide the desired expressiveness, as well as additional goodies designed specifically for Android."
 }, {
-  "id": 40,
+  "id": 51,
   "startAt": "2016-04-08 12:50",
   "duration": 40,
   "roomId": 2,
@@ -399,7 +399,7 @@
   "title": "Crafting Great Hypotheses",
   "description": "Building business apps is no joke.\nAs designers, we are often asked to create apps that have the wow factor, they need to be distinctive, and we are rarely appreciated when we create something pragmatic, something that simply works.\nMoving forward in the face of uncertainty, it is essential to devise a plan, an UX roadmap that includes research, objectives and tests.\nIn a world where success is just when preparation meets opportunity, starting with ready to be validated solid hypotheses is the secret souce to a project without risks. Are you a risk taker?"
 }, {
-  "id": 41,
+  "id": 52,
   "startAt": "2016-04-08 12:50",
   "duration": 40,
   "roomId": 3,
@@ -407,7 +407,7 @@
   "title": "Bluetooth LE beacons, Eddystone and Physical Web: an introduction",
   "description": "Bluetooth Low Energy (BLE) beacons is an emerging technology. First introduced in 2013, with iBeacon launch from Apple, BLE beacons technology immediately raised a large interest in the mobile community, recently freshened with the Google introduction of Eddystone format and Physical Web project.\nA BLE beacon is a wireless device that periodically broadcast a Bluetooth Low Energy advertising packet, that is received by a smartphone and used to determine the position with respect to the beacon itself. This allows to provide “context-aware” information to the mobile user, opening up the possibility to connect the online (virtual) world with the offline (real) physical world. It is clear that BLE beacons are considered one of the anabling technology for the Internet of Things (IoT).\nIn this talk, we will provide a review on this technology, starting from a general introduction on how a BLE beacon works and interacts with smartphones. Then, focus will be given on Eddystone beacon specifications from Google, analyzing different advertising formats and their potential applications. Finally, the talk will address Physical Web project, a novel approach, developed and introduced by Google and based on open-source Eddystone-URL BLE beacon format, to enable interaction on-demand between a mobile device and a smart device (a parking meter, an electronic kiosk, a bus stop, …)."
 }, {
-  "id": 43,
+  "id": 53,
   "startAt": "2016-04-08 12:50",
   "duration": 40,
   "roomId": 4,
@@ -415,7 +415,7 @@
   "title": "Simple Android client-server architecture, using Retrofit, Realm, Chronos and Gson.",
   "description": "Programs are Data plus Operations\nRetrofit: you know what it is. Creating basic RestAdapter with additional configuration for Realm and Gson.\nRealm: how to configure it, using different Realm instances for separated threads. Realm action(query, transaction) lifecycle.\nChronos: creating abstract Operation to provide Realm and Retrofit support and error handling.\nCombinig all together."
 }, {
-  "id": 44,
+  "id": 54,
   "startAt": "2016-04-08 13:30",
   "duration": 60,
   "roomId": 0,
@@ -423,7 +423,7 @@
   "title": "Lunch",
   "description": null
 }, {
-  "id": 45,
+  "id": 55,
   "startAt": "2016-04-08 14:30",
   "duration": 50,
   "roomId": 1,
@@ -431,7 +431,7 @@
   "title": "#UXMatters",
   "description": "Do you know what it takes to have a good mobile User eXperience?\nAre you adding the features to make your Android application taste like more.\nIs your design good enough?\nWiebe Elsinga will share is experience on what good and bad UX is, hoping to show you how to become a better developer and/or designer."
 }, {
-  "id": 46,
+  "id": 56,
   "startAt": "2016-04-08 14:30",
   "duration": 50,
   "roomId": 2,
@@ -439,7 +439,7 @@
   "title": "fun things (you: CanDo<in Kotlin>) = …",
   "description": "There is no silver bullet for Android boilerplate, but some bullets are more fun than other.\nDuring the last year Kotlin has grown in popularity in Android community. If you haven’t heard of it or did hear something, but are not convinced yet, I will show you why it’s so fun to start coding in it. We’ll see how it improves readability and safety of your code, while not making your app any less performant than Java. When you get your hands dirty with Kotlin, you will notice it can replace quite a few popular Android libraries.\nThe whole session is planned as pure livecoding, so make sure to drink a shot of espresso before joining!"
 }, {
-  "id": 47,
+  "id": 57,
   "startAt": "2016-04-08 14:30",
   "duration": 50,
   "roomId": 3,
@@ -447,7 +447,7 @@
   "title": "Marketing for developers – build",
   "description": "Developers love to create stuff. Yes, we do. Most times it is the easier part of the product lifecycle. In this short presentation, I will take you to the other side. The side of “personas”, “landing pages”, “sales funnels” and all of this marketing mumbo jumbo.\nMy goal is to show you how to create the app that people want and how to make it visible."
 }, {
-  "id": 48,
+  "id": 58,
   "startAt": "2016-04-08 14:30",
   "duration": 50,
   "roomId": 4,
@@ -455,7 +455,7 @@
   "title": "Android Data Binding in action using MVVM pattern",
   "description": "The Data Binding framework was one of Google’s announcements at I/O 2015, it’s a big change in the code organization of an Android app. Some developers are sceptical about this framework but, if used in the “right way”, it’s very powerful and it allows to remove a lot of redundant boilerplate code from activities and fragments.\n\nIn this talk we’ll start from the Data Binding basic concepts and then we’ll see how to use it to improve the architecture of a typical Android application applying the Model View ViewModel pattern. Using this pattern you need to write less code to create an app that can be easily tested using JVM and instrumentation tests."
 }, {
-  "id": 49,
+  "id": 59,
   "startAt": "2016-04-08 15:20",
   "duration": 50,
   "roomId": 1,
@@ -463,7 +463,7 @@
   "title": "Confessions of a digital finger painter: best practices for mobile digital art apps",
   "description": "Since time immemorial technology and art have travelled hand in hand.\nThe advent of touch screen smartphones put a canvas in everyones pocket, redefining creative process, distribution and opportunities.\nAn algorithmic proliferation of apps, along with advancing mobile tech solutions has created limitless creative possibilities for users and developers alike.\nWe will take a look at what makes a good creative app, best practices, and the future of mobile digital art."
 }, {
-  "id": 50,
+  "id": 60,
   "startAt": "2016-04-08 15:20",
   "duration": 50,
   "roomId": 2,
@@ -471,7 +471,7 @@
   "title": "So you have a side project, huh?",
   "description": "Software engineers have the skills and means to create. We can build our dreams if we choose to!\nCreating a product requires a lot of work and is full of hurdles on the way. I want to share my experiences of building my passion product as an after-work project.\nI learned a lot and I’d like to share the lessons:\nImportance of programming skills\nUnderstanding “good enough” in your code\nImportance of MVP\nAndroid and Android UI\nHow to use Android native UI as an effective prototyping tool? Architecture matters.\nUser feedback – When to ignore users, when to listen to users? Never letting users design your product but designing it for your users (and yourself).\nAvoiding “designed by committee”\nFunding your dreams\nFinding the partners\nCreating a community\nReaching to a new business domain\n\nNote:\nThe talk is about a passion project I’ve been building for more than 3 years now. At the time of writing this we’re just heading to Kickstarter to make it finally reality. All this time we have self funded the project and worked on it after-work basis.\nI think devs should be encouraged to create more… We can do it :-)"
 }, {
-  "id": 51,
+  "id": 61,
   "startAt": "2016-04-08 15:20",
   "duration": 50,
   "roomId": 3,
@@ -479,7 +479,7 @@
   "title": "World-Class Testing Development Pipeline for Android",
   "description": "Test our Android applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test an how to design a testing development pipeline. Using real production code we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: Espresso, Robotium, MockWebServer, Dagger, JUnit, Mockito, etc.\n\nIf you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
 }, {
-  "id": 52,
+  "id": 62,
   "startAt": "2016-04-08 15:20",
   "duration": 50,
   "roomId": 4,
@@ -495,7 +495,7 @@
   "title": "The 2016 Android Developer Toolbox",
   "description": "Developing for Android has drastically changed over the last few years.\nWe now have a gigantic toolbox we can benefit from to improve our productivity and build better applications.\n\nDuring this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application.\n\nI will talk about many tools that help us to:\n– Simulate a laggy/instable HTTP(s) connection\n– Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time\n– Change our application’s backend server without recompiling\n– Better understand our technical debt\n– Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet\n– Measure the performance (cpu/memory) of our application\n– Decompile our application to better understand and analyze its security\n– Alter a server response and check whether the application behaves properly\n– and many more tips…"
 }, {
-  "id": 53,
+  "id": 63,
   "startAt": "2016-04-08 16:10",
   "duration": 40,
   "roomId": 2,
@@ -503,7 +503,7 @@
   "title": "Who do you think owns your application?",
   "description": "Just like any other software system, Android has its own list of security problems.\nIt is a race between hackers and Android platform developers. Some of the most eligible security professionals are handling the security of Android platform, but what about the application you are going to release to millions of users via Play store? Can a user “trust” your app?\nIf you think about it, the user of your application can be a malicious hacker who can decompile your application, get hold of your secret keys, abuse application permissions, read secret data from phone and cause havoc for a normal user.\nAs a whole, any system supports a flexible degree of collaboration between applications, where dependencies can be simple or complex.\nThese dependencies can be exploited through quirks and tricks to get data, passwords, and eventually own your application.\nLet us think about it…\nCan an innocuous looking permission enable a hacker to read loads of private data from your phone and indirectly from your app?\nCan locally saved data be accessed and used by the hacker against you.\nIn this talk, we would demonstrate how neglecting Android security model enables hackers to abuse your application and give him/her an opportunity to tear apart your reputation.\nWe would also talk about how a developer can “secure” their applications using Android secure coding guidelines.\nBy the end of the session, we shall get a deeper understanding of permission model and securely implementing Android components which can prevent leak of sensitive data."
 }, {
-  "id": 54,
+  "id": 64,
   "startAt": "2016-04-08 16:10",
   "duration": 40,
   "roomId": 3,
@@ -511,7 +511,7 @@
   "title": "Mastering the NDK with Android Studio 2.0 and the gradle-experimental plugin",
   "description": "Android Studio is finally fully supporting the NDK so you can easily integrate C/C++ inside Android applications.\nWhile this support is still new and experimental, it’s worth already doing the final jump from other IDEs and build systems.\nAfter a short introduction on what is the NDK, learn how to use it from Android Studio while avoiding several classic pitfalls."
 }, {
-  "id": 55,
+  "id": 65,
   "startAt": "2016-04-08 16:10",
   "duration": 40,
   "roomId": 4,
@@ -519,7 +519,7 @@
   "title": "Building a maintainable app using MVP and Dagger 2",
   "description": "Very few concepts shook up the Android world as MVP and Dagger 2 did.\nMVP gave us a long-awaited clean architecture in Android apps, while Dagger 2 brought it to a whole new level by removing all the boilerplate code that we don’t like writing.\nIn this talk I will demonstrate the benefits of the MVP architecture and its reusability and scalability.\nI’ll go over Dagger’s role in MVP as well as unit testing, and show how to focus on creating reusable modules on a concrete example."
 }, {
-  "id": 56,
+  "id": 66,
   "startAt": "2016-04-08 16:50",
   "duration": 20,
   "roomId": 0,
@@ -527,7 +527,7 @@
   "title": "Coffee break",
   "description": null
 }, {
-  "id": 57,
+  "id": 67,
   "startAt": "2016-04-08 17:10",
   "duration": 50,
   "roomId": 1,
@@ -535,7 +535,7 @@
   "title": "A friend in needs – a JS indeed",
   "description": "Your VP of Product decides that you need to add a new, awesome critical piece of business logic to the thousands of lines of code that already make up your codebase. You worked hard, add it, built a new version, and uploaded it to the Play Store. The only thing that’s left, is to wait while all your millions of users will update it.\nHoping that it won’t take too long.\nWhat if I told you that you could “”outsource”” your critical business code to your server, deploy immediately and still have the ability to run your application, even if you are offline, and do this with almost the same performance as if this was the native code.\nSound too good to be true?\nSo come and I show you how deep the rabbit-hole goes."
 }, {
-  "id": 58,
+  "id": 68,
   "startAt": "2016-04-08 17:10",
   "duration": 50,
   "roomId": 2,
@@ -543,7 +543,7 @@
   "title": "Pimp my watch",
   "description": "From Lollipop 5.0.2W to Marshmallow 6.0W: all the new features in the latest versions of Android wear like always on app, the cellular support and maps.\nWe take focus on sensors and give some tips&tricks to improve performance.\nWe provide a lot of code to show these features.\nAnd watchfaces like there was no tomorrow."
 }, {
-  "id": 59,
+  "id": 69,
   "startAt": "2016-04-08 17:10",
   "duration": 50,
   "roomId": 3,
@@ -551,7 +551,7 @@
   "title": "Android: it’s time to Go To Work!",
   "description": "Is Android truly ready for business-critical industrial solutions?\nIn this talk I’ll present project experiences, advantages and issues moving industrial enterprise solutions used by Fortune 500 companies from Windows mobile devices to Android covering topics like:\n• Security\n• Staging and managing devices\n• Policy Controllers\n• Single-use devices\n• Managing updates and HW obsolescence\nIf you’re thinking that Android for Work is enough for a line-of-business industrial application, think again"
 }, {
-  "id": 60,
+  "id": 70,
   "startAt": "2016-04-08 17:10",
   "duration": 50,
   "roomId": 4,
@@ -559,7 +559,7 @@
   "title": "To ∞ (~65K) and beyond!",
   "description": "It’s 2016 even for us, Android developers. We can expect lots of new awesome libraries, services and tools to make our life easier.\nUnfortunately though, among many of the problems that we carry over from the past years, the loathed, dreadful,\nwhy-in-the-name-of-Andy-Rubin limit of 65536 methods is the most notable of them.\n\nThis talk focuses on analyzing this “condition” from a pragmatic and down-to-earth perspective for developers. You will get to\nunderstand what exactly this problem is about and why it exists in the first place. Moreover, we will go through the possible solutions,\neach one of them presented with pros and cons. At the end of this talk, you should be able to evaluate which solution best suits your app,\nand even if you need a solution in the first place.\n\nBonus round: useful tips and some sarcasm."
 }, {
-  "id": 61,
+  "id": 71,
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 1,
@@ -567,7 +567,7 @@
   "title": "Smart SPHERES – Android Powered, Free Flying Robots on the International Space Station",
   "description": "The Intelligent Robotics Group (IRG) at NASA Ames Research Center was tasked with upgrading an existing free flying robot, SPHERES (Synchronized Position Hold Engage and Reorient Experiment) on the International Space Station (ISS). The SPHERES has been on ISS since 2006.\n\nThe lists of requirements that we needed to address were increasing processing, adding Wifi, touchscreen, and a camera. This narrowed our search down to smartphones, tablets, and iPod touch devices. The best option at the time was the Google Nexus S.\n\nThe process of making this smartphone ISS certified started in Dec 2010. This involved removing the GSM chip, making it run off of AA alkaline batteries, covering the touchscreen with Teflon tape, and changing the OS so that device drivers were not needed when plugged into the laptops on ISS. This was the first Smartphone certified for ISS and Shuttle. It was launched into space on STS-135 on 8th July 2011.\n\nThis started a series of experiments involving the smartphone and SPHERES. We called it Smart SPHERES. The experiments include sensor performance in 0g, verifying space to ground communications, live video survey and tele-operations, face detection and following, and Wifi localization.\n\nThe success of these experiments lead to follow up work using a Google Project Tango smartphone. In addition to the previous modification needed, we moved all the sensors to face the front, integrated the data cable to communicate to SPHERES, and used ADB over Wifi to upload/download data. This was launched into space on Orb-2 rocket on 14 July 2014.\n\nThe Tango smartphone allowed us to investigate localization without SPHERES by using a previously built map of ISS. This has lead to our current project of building a free flying robot for ISS called Astrobee."
 }, {
-  "id": 62,
+  "id": 72,
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 2,
@@ -575,7 +575,7 @@
   "title": "T-UNION",
   "description": null
 }, {
-  "id": 63,
+  "id": 73,
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 3,
@@ -583,7 +583,7 @@
   "title": "Chronicles of TDD: How to automatize and enrich testing in your Android library",
   "description": "Test-driven development (TDD) is a software process, whose aim is developing features by first introducing new failing test cases, and then writing the correspondent piece of code to make them pass.\nAlthough theoretically fascinating, we all know how hard and how much hassle is required to adhere to this process. This becomes even trickier in Android, where current tools do not always empower devs to mock and stub properly the internals of the system.\nIn this talk, after recalling some of the basic principles of TDD and testing (e.g., mocking, stubbing), I am going to discuss how to introduce proper testing into a previously poorly tested project so to make it ideal for TDD. As a real-world example, I will consider code extracts from Grab’n Run (grabnrun.org), an open-source Android library that I developed to secure dynamic code loading, and that I heavily refactored during the past months.\nAlong the way, I will present some of the Java and Android-specific tools and frameworks (e.g., Mockito, Hamcrest, Robolectric, Shadows) for improving test efficacy, as well as share some of the lesson learned during the whole process.\nIdeal targets for this talk are beginners, and intermediates in the subject of testing in Java and/or Android, who should receive a quite complete overview on the topic. Experts are also invited to remove some dust from their knowledge, and, maybe, to share their experience such that your libraries and mine could be even more well-tested in the future!"
 }, {
-  "id": 64,
+  "id": 74,
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 4,
@@ -591,7 +591,7 @@
   "title": "Backend for Android Developers",
   "description": "We believe that every Android developer should be able to write a simple but powerful backend without having to maintain a massive boilerplate codebase.\nSo, what’s better than a Java framework and a NoSQL database for storing your data?\nMoreover, the client code can become really hard to maintain when dealing with common tasks such as RESTful requests or user authentication.\nIn spending time trying to reinvent the wheel, you will lose your focus on what’s really important: your users.\nIn this talk we will learn how to develop a full stack project, from the backend, through the protocol to the Android application."
 }, {
-  "id": 65,
+  "id": 75,
   "startAt": "2016-04-08 18:50",
   "duration": 10,
   "roomId": 0,
