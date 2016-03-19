@@ -33,19 +33,19 @@
                 style="@style/Venue.Title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_impacthub_title"/>
+                android:text="@string/venue_longotto_title"/>
 
             <TextView
                 style="@style/Venue.Content"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_impacthub_address"/>
+                android:text="@string/venue_longotto_content"/>
 
             <TextView
                 style="@style/Venue.Title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/venue_directions_title"/>
+                android:text="@string/venue_information_title"/>
 
             <TextView
                 android:id="@+id/venue_directions"
@@ -53,7 +53,8 @@
                 android:layout_width="match_parent"
                 android:linksClickable="true"
                 android:layout_height="wrap_content"
-                tools:text="@string/venue_directions_content"/>
+                android:lineSpacingExtra="2dp"
+                tools:text="@string/venue_information_content"/>
         </LinearLayout>
 
         <android.support.v7.widget.AppCompatButton

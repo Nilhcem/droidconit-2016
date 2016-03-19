@@ -27,8 +27,8 @@ public class VenueFragment extends BaseFragment {
     @Bind(R.id.venue_image) ImageView photo;
     @Bind(R.id.venue_directions) TextView directions;
 
-    private static final float PHOTO_RATIO = 0.357f;
-    private static final String COORDINATES_URI = "geo:25.1931753,55.2745114?q=" + Uri.encode("Impact HUB Dubai");
+    private static final float PHOTO_RATIO = 0.413f;
+    private static final String COORDINATES_URI = "geo:45.032432,7.658514?q=" + Uri.encode("Auditorium Centro Congressi");
 
     @Override
     protected BaseFragmentPresenter newPresenter() {
@@ -72,7 +72,7 @@ public class VenueFragment extends BaseFragment {
     }
 
     private void initDirections() {
-        directions.setText(Html.fromHtml(getString(R.string.venue_directions_content)));
+        directions.setText(Html.fromHtml(getString(R.string.venue_information_content)));
         directions.setMovementMethod(LinkMovementMethod.getInstance());
     }
 }
