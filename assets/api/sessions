@@ -1,89 +1,273 @@
 [{
-	"id": 1,
-	"startAt": "2016-03-26 11:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [1, 11],
-	"title": "Survival of the Continuist",
-	"description": "A deep dive into Jenkins Continuous Integration, how you can enable your team to collaborate more, run tests and configure the robots to do all the things for you. Also talking about caveats around automation, testing on real devices, usb hub woes and more."
+  "id": 1,
+  "startAt": "2016-04-07 09:00",
+  "duration": 40,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Registration",
+  "description": null
 }, {
-	"id": 2,
-	"startAt": "2016-03-25 15:10",
-	"duration": 50,
-	"roomId": 1,
-	"speakersId": [2],
-	"title": "Using Git like a pro: Shazam's \"master-only\" workflow, other branching strategies and git hacks",
-	"description": "In this talk we will be discussing advanced git techniques, how you can utilize different branching strategies to achieve a rapid workflow depending on the structure of your team (and demonstrating the branching strategy the Android team uses at Shazam), followed by an assortment of 'hacks', or useful tricks, that allow you to optimize the way you work and share code with others."
+  "id": 2,
+  "startAt": "2016-04-07 09:40",
+  "duration": 20,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Welcome",
+  "description": null
 }, {
-	"id": 3,
-	"startAt": "2016-03-26 10:15",
-	"duration": 45,
-	"roomId": 1,
-	"speakersId": [3],
-	"title": "Test Strategy for native Android and Web and what has changed at Skyscanner",
-	"description": "Skyscanner and its products have improved over the last year. The Android platform has changed significantly as well, and with it Skyscanner's approach to testing for both the web and native apps on Android.\n\nMatteo Doni (@todoleo) will summarise where Skyscanner was last year, what has changed and explore Test Strategy for the rapidly changing ecosystem. From internal test practices to release processes, crowd testing to analytics and dogfooding to automation, Matteo will deliver an overview of how Skyscanner delivers quality software in over 30 languages and working with over 1200 partners.\n\nHumor and the odd cat picture is guaranteed, time will be put aside for a Q&A session at the end. No goats were harmed in the preparation of this session."
+  "id": 3,
+  "startAt": "2016-04-07 10:00",
+  "duration": 40,
+  "roomId": 0,
+  "speakersId": [1],
+  "title": "Android Development Today",
+  "description": "The Developer Preview of the next release of Android is here early this year, with a host of new features and APIs such as multi-window mode, notification enhancements and many behavior changes targeting battery life and system health. It’s the best time to start testing your apps to make sure you’re ready for the final release later this year. We are also eager to hear feedback on the N Developer Preview so that we can make sure we deliver the best possible product for developers to build upon."
 }, {
-	"id": 4,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [4],
-	"title": "Android through the Eyes of a Photographer",
-	"description": "How can Android devices and apps support (hobby-)photographers in their work?\n\nI will cover the whole workflow from planning a shooting over taking photos in RAW-format with Android devices, copying photos from a DSLR or mirrorless camera, editing photos in RAW-format (on an Android-device) and creating backups from a camera on an Android device and/or USB-Stick or external HD.\n\nIf you like, join me for a Mini-Photowalk after the show at Burj Khalifa / Water Fountains (don't forget your camera!) :-)"
+  "id": 4,
+  "startAt": "2016-04-07 10:40",
+  "duration": 30,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Barcamp organization",
+  "description": null
 }, {
-	"id": 5,
-	"startAt": "2016-03-25 14:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [5],
-	"title": "FillTheForm",
-	"description": "I would like to introduce the tool that helps you to develop and test your apps faster.\n\"Fill out every EditText with just a long press!\"\nThis tool uses the power of AccessibilityService in order to make app development easier. It is possible to fill out every EditText with appropriate data using minimum effort.\n\nBenefits:\n* Significantly speed up your development and testing.\n* You don't have to remember your test data ever again.\n* Eliminate the chance of entering the wrong data (reduces stress).\n\nFillTheForm tool is made for developers and testers and I would like to present it to the Android community. It is published as an open source project on the HRS github:\nhttps://github.com/Hotel-Reservation-Service/FillTheForm\n\nDemo video:\nhttps://www.youtube.com/watch?v=99MNtYpOUlk&feature=youtu.be"
+  "id": 5,
+  "startAt": "2016-04-07 11:10",
+  "duration": 40,
+  "roomId": 1,
+  "speakersId": [2],
+  "title": "#PERFMATTERS for Android",
+  "description": "The slogan ‘#PERFMATTERS’ by Colt McAnlis is one of the most important statements, which an Android developer should follow. A well performing application makes the difference between a nice looking application and one, which gets successful. You, as an Android developer, have the responsibility to delight your users, so they don’t feel how much work your application has to burden to fulfill the user’s needs. This session will show you some easy optimizations and how to avoid glitches in the application. A lot of developers would shout, that this is premature optimization. In contrary it is preventive. With a small amount of work while developing you can avoid a lot of pitfalls. You will hopefully have a better understanding of the underlying system afterwards. During the session some tools and frameworks will be presented for helping you to fulfill your mission."
 }, {
-	"id": 6,
-	"startAt": "2016-03-25 12:00",
-	"duration": 45,
-	"roomId": 1,
-	"speakersId": [6],
-	"title": "Using APIs in your app",
-	"description": "Recommended APIs to be used in your app and how to use them"
+  "id": 6,
+  "startAt": "2016-04-07 11:10",
+  "duration": 40,
+  "roomId": 2,
+  "speakersId": [3],
+  "title": "#PERFMATTERS for Android",
+  "description": "An agile software development was introduced to focus more on individuals, interactions, working software, customer collaboration and responding to change. An agile team usually consists of 4 to 6 members including product owner, testers, designers, developers and agile coach. It is straightforward for smaller companies to apply. As a company grows, you might wonder how to keep the agile. Spotify has mainly formed agile teams based on features. However, teams’ autonomous could be restricted by an application architecture. We’ve changed an application architecture to support a scaled agile. Several ideas are borrowed from a longest time used architecture, WWW(world wide web). In this talk, we describe our application architecture with lessons."
 }, {
-	"id": 7,
-	"startAt": "2016-03-25 17:00",
-	"duration": 30,
-	"roomId": 1,
-	"speakersId": [7],
-	"title": "The 2016 Android Developer Toolbox",
-	"description": "Developing for Android has drastically changed over the last few years.\nWe now have a gigantic toolbox we can benefit from to improve our productivity and build better applications.\n\nDuring this presentation I will introduce some of the tools we use daily at happn, a multi-million users French dating application.\n\nI will talk about many tools that help us to:\n– Simulate a laggy/instable HTTP(s) connection\n– Interact with our application to analyze logs, views, and modify any data (inc. memory / shared preferences / database) in real time\n– Change our application’s backend server without recompiling\n– Better understand our technical debt\n– Create a REST mock server in a few seconds to anticipate the development of a feature when the backend is not developed yet\n– Measure the performance (cpu/memory) of our application\n– Decompile our application to better understand and analyze its security\n– Alter a server response and check whether the application behaves properly\n– and many more tips…"
+  "id": 7,
+  "startAt": "2016-04-07 11:10",
+  "duration": 40,
+  "roomId": 3,
+  "speakersId": [4, 5],
+  "title": "Drive together not the same",
+  "description": "Connected cars are among us.\nToday we can use our smartphone in a safer way while driving not touching them at all! Let’s see together what we can do as developers to integrate our apps in Automotive Systems in the marketplace.\nWhat platform like Android Auto, Sync AppLink and Mirrorlink are offering to us to make a safe driving experience for our customers."
 }, {
-	"id": 8,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [8],
-	"title": "Android Reactive Programming with RxJava",
-	"description": "In a world where there is a smartphone in every pocket, designing and building applications that can run smoothly and deliver the User Experience that users deserve it’s the only way to go. Reactive Programming with RxJava will help you to beat Android Platform limitations to create astonishing Android Apps.\nThis talk will be a practical journey from basic Reactive Programming and Observer Pattern concepts to the main feature of RxJava, with code examples and a real-world app.\nYou will learn how to create an Observable “from scratch”, from a list or from a function you already have in your code base. You will learn how to filter an Observable sequence to create a new sequence containing only the values you want; you will learn how to apply a function to an Observable, how to concatenate or merge Observables. You will learn how to enjoy Schedulers to overcome the threading and concurrency hell in Android.\nI will close the talk with a practical example about RxJava + Retrofit, to easily communicate with a REST API."
+  "id": 8,
+  "startAt": "2016-04-07 11:10",
+  "duration": 40,
+  "roomId": 4,
+  "speakersId": [6, 7],
+  "title": "Bonjour Android, it’s ZeroConf",
+  "description": "ZeroConf is a protocol that helps us advertising a service or discovering the available services in our networks. This is how Chromecast works, but why don’t we go deeper?\n\n- What is ZeroConf\n– Why is it needed\n– Discovery VS Advertising\n– What are the different implementations that we can find on Android\n– And on server side?\n– Small demo and code show"
 }, {
-	"id": 9,
-	"startAt": "2016-03-26 23:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [9],
-	"title": "Crash Wars: The handling awakens",
-	"description": "For years crash handling was one of the worst parts of the Android development process. With each new crash you were risking a lot - getting bad Google Play reviews, negative comments and dissatisfied customers. Nobody likes the \"Unfortunately, your app has crashed\" dialog, but there was only so much you could do about it, beside logging the crash to a remote server.\n\nIn the last couple of months a lot has changed. We've been introduced to brand new tools to help us cope with this problem. During this talk, we'll demonstrate how to use several tools and techniques that have made our lives easier. We'll discuss different ways of predicting crashes even before they occur by means of static code checkers, automatic tests and CI setup. Additionally, we'll show you how to detect memory leaks, explain advanced exception and crash logging by using a combination of several different tools. Finally,  we’ll demonstrate how to provide a better crash experience or hide the crash altogether if the crash is simply inevitable!"
+  "id": 9,
+  "startAt": "2016-04-07 11:50",
+  "duration": 20,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Coffee break",
+  "description": null
 }, {
-	"id": 10,
-	"startAt": "2016-03-25 16:30",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [10],
-	"title": "Can You Read Your Tests? Clean and Useful Android Testing, with JUnit and Spock!",
-	"description": "Have unit tests? How readable are they? How much time do you spend maintaining them? Brittle and time-consuming tests lead to fear, uncertainty, and distrust, and that leads to and eventual disillusionment and abandonment.\n\nThis talk will go over tools and techniques for writing tests that are a pleasure to read, easy to maintain, give you maximum return on the time you invest into them, and will prove their worth time and time again.\n\nWe'll take a look at some example tests that are exhibiting some common issues, such as:\n- readability\n- brittleness: breaking every time the implementation is changed\n- non-obvious cause + solution upon test failure\n- flakiness / unreliability\n- slow execution\n\nWe'll improve these tests in plain JUnit, move on to Hamcrest and AssertJ, and then show how Spock can take us even further to tests that are beautiful, easily maintainable, and incredibly useful.\n\nStop wasting time on bad tests!\n\nThis talk aims to level-up every Android developer's testing know-how and arm them with the tools required to write effective and maintainable tests."
+  "id": 10,
+  "startAt": "2016-04-07 12:10",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [8],
+  "title": "Gradle – Faster and deeper",
+  "description": "Over the past months, various performance improvements have been made in Gradle core that highly benefit Android developers. And more radical improvements are coming very soon. On the forefront are the deeper modeling of variants and a revolutionary new configuration model. This will further enhance the experience of developing Android applications with Android Studio way beyond better performance. In this presentation, we will take a closer look at those Gradle enhancements and how they manifest in the context of Android and Android Studio. We will also demonstrate some new tooling that is going to be very beneficial to understand and improve your Android builds."
 }, {
-	"id": 11,
-	"startAt": "2016-03-25 14:00",
-	"duration": 60,
-	"roomId": 1,
-	"speakersId": [12],
-	"title": "State of Android Testing Support Library",
-	"description": "Testing in the Android Platform used to be hard, but not now.\n\nThe Android Testing Support Library provides an extensive framework for testing Android apps. In this talk we will go through the main features like the new instrumentation test runner. Then we will cover Espresso and advanced topics like espresso-intents and idling resources. Finally we will see UI Automator, testing framework suitable for cross-app functional UI testing across system and installed apps"
+  "id": 11,
+  "startAt": "2016-04-07 12:10",
+  "duration": 50,
+  "roomId": 2,
+  "speakersId": [9],
+  "title": "Let it flow! – Unidirectional data flow architecture on Android",
+  "description": "Reactive Functional Programming becomes more and more recognised as a great way to build reliable and maintainable software.\nFunctional programming paradigms such as Immutability and avoiding statefull objects are considered good practices and something to strive for.\nThat’s great! However it is not always straightforward to apply those principles, let alone to create a whole architecture around them.\nRefactoring from an existing code base we will see how we can craft a great architecture and simplify our presentation layer by pushing more concerns as part of our domain."
+}, {
+  "id": 12,
+  "startAt": "2016-04-07 12:10",
+  "duration": 50,
+  "roomId": 3,
+  "speakersId": [10],
+  "title": "ClassyShark – handy Android executable viewer",
+  "description": "While developing apps we tend to think about dexs, jars, apks and classes as build/run time abstractions that just work. Most of the time this is true, however, when trying to debug runtime issues in large apps, things can sometimes get tricky.\nAfter working with 3rd party dependencies and analysing crashes neither being able to view the sources nor having time time to learn the library, I wrote a tool to assist me. By looking inside the jars and dexes I can see how they work and which libraries they call.\nI am pleased to announce that I have open sourced ClassyShark a stylish Java/Android executables browser!"
+}, {
+  "id": 13,
+  "startAt": "2016-04-07 12:10",
+  "duration": 50,
+  "roomId": 4,
+  "speakersId": [11],
+  "title": "Android Forensics with Free/Open Source Tools",
+  "description": "How many sensitive data are present in our mobile devices?\nSensitive data is really safe?\nEncrypted messages, are really encrypted?\nHow the police investigates our device?\nMy talk wants to answer all the questions above.\nI will analyze all the methods of acquisition and analysis of a terminal Android with free/open source software.\nThe proposed scenario is absolutely real.\nAfter analyzing in detail all the methods of acquisition and after describing the various types of acquisition, I will analyze in detail the main messaging applications like Whatsapp and Telegram.\nFor example, I will see where to find and how to recover deleted messages.\nMany other examples will be illustrated. I will fulfill a live demo with my android device.\nI will present a complete analysis of the device."
+}, {
+  "id": 14,
+  "startAt": "2016-04-07 13:00",
+  "duration": 40,
+  "roomId": 1,
+  "speakersId": [12, 13],
+  "title": "Play Everywhere: providing a consistent experience across very different devices",
+  "description": "Have you ever thought about delivering your app to more than just phones?\nHave you ever received complaints about users not being able to use your app on TVs, SmartWatches, Chromecasts, Cars or other platforms??\nHave you ever tried to think about what is the easiest way to achieve “ubiquity” while still providing quality???\n\nSpotify ships its experience on Android phones and tablets, Android TVs, Android Wear, Android Auto (and other car integrations), Chromecasts, Speakers and embedded devices, and many more. So yes,…we face these kind of problems all the time!\nAlessandro and Dima are going to give an overview of the challenges that Spotify encounters in multi-platform support and the solutions adopted.\n\n!!SPECIAL OFFER!! Overview of Spotify SDKs is included !!FREE OF CHARGE!!"
+}, {
+  "id": 15,
+  "startAt": "2016-04-07 13:00",
+  "duration": 40,
+  "roomId": 2,
+  "speakersId": [14],
+  "title": "Internal Library Dependency Management",
+  "description": "As your app code gets larger and more complex, it makes sense to break your project out into smaller reusable components. But what’s the best way to do this? How can you clearly version your internal libraries? What kind of setup and maintenance can you expect? How much could it slow down development time?\nIn this talk we’ll dive into the various ways you can manage internal library dependencies. We’ll chat about the current state of Android dependency management, Gradle multi-project builds, Git submodules, and creating a private maven repository in Artifactory. The speaker will share real-world examples, and the pros and cons of each approach."
+}, {
+  "id": 16,
+  "startAt": "2016-04-07 13:00",
+  "duration": 40,
+  "roomId": 3,
+  "speakersId": [15],
+  "title": "Distribute your libraries via Maven, even privately",
+  "description": "In order to remain cost effective reusing code is one of the most essentials skills of a modern Android developer.\nUsing open source libraries is one thing, but what if there isn’t a library available that suits your need? How would you go about to develop and distribute this library yourself?\nThis talk aims at providing a complete solution for library distribution, either within your own organization or with the entire open source community.\nYou will learn how to setup your own private Maven repository, configure an account for Maven Central or JCenter and that even BitBucket/Github can be used as a Maven repository!\nFully functional Gradle scripts will be provided for each alternative, taking important aspects like security and nested dependencies into account.\nAfter this talk, there will be no more excuse to ramp up your game and start reusing your own code!"
+}, {
+  "id": 17,
+  "startAt": "2016-04-07 13:00",
+  "duration": 40,
+  "roomId": 4,
+  "speakersId": [16],
+  "title": "Reverse engineering is not just for hackers!",
+  "description": "We spend a lot of time putting apps together, but when was the last time you pulled one apart?\nHow wonderful is it that Android is open-source, so we can simply look at the code when we need to?\nWhat if it were just as easy to look at the source code and behaviour of any other app?\nIf we can streamline the process of looking inside a compiled application then we’re more likely to employ it to answer questions and teach us valuable lessons we can apply to our work. We may learn from others and also make our own apps more secure.\nWe can pinpoint bugs that come from closed-source libraries such as those for ad and tracking networks, and work around those bugs, get them fixed faster, or even patch them if need be!\nThis talk will present simple real-world examples for maximum practical benefit using some of the ever improving set of reverse engineering tools for Android.\nYou don’t need to have any experience reverse engineering anything before, but hopefully even if you do you’ll pick up a few useful tips.\nThis talk aims to make every developer more familiar with the reverse engineering tools available for Android, and how and why they should apply them.\nThere’s an incredible amount that can be learned from taking things apart!"
+}, {
+  "id": 18,
+  "startAt": "2016-04-07 13:40",
+  "duration": 60,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Lunch",
+  "description": null
+}, {
+  "id": 19,
+  "startAt": "2016-04-07 14:40",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [17, 18],
+  "title": "Flat as a pancake",
+  "description": "Is your app very slow in loading new pages with lots of views in it? Is your scrolling perf not great… well… did you try flattening your view hierarchy? And what about not using View at all? Are you brave enough? Do you simply like pancakes? Come and discover what that actually means!"
+}, {
+  "id": 20,
+  "startAt": "2016-04-07 14:40",
+  "duration": 50,
+  "roomId": 2,
+  "speakersId": [19],
+  "title": "Android Library A-Z",
+  "description": "In almost every Android app project, you use a variety of libraries. This talk covers some of the most used libraries. While developing an Android app, you rely on loads of 3rd party libraries to make your life easier. Need persistence? No problem. Need to access a REST API? No problem. Need to handle images in your app? No problem. There’s a library for almost any common task that Android developers will face. In this talk, I will show examples of some of the most common Android libraries that are out there."
+}, {
+  "id": 21,
+  "startAt": "2016-04-07 14:40",
+  "duration": 50,
+  "roomId": 3,
+  "speakersId": [20],
+  "title": "Engage and retain users in the Android world",
+  "description": "Making your app engaging, so that users who have installed it actually use it, is crucial to your app’s success. In this speech, we explore a number of Android and Google features you can take advantage of that help make your app a more useful and embedded part of the user’s Android experience."
+}, {
+  "id": 22,
+  "startAt": "2016-04-07 14:40",
+  "duration": 50,
+  "roomId": 4,
+  "speakersId": [21],
+  "title": "The bytecode mumbo-jumbo",
+  "description": "We know one of the main characteristics of Java is portability, and that usually means it is not as efficient as it should be. That might be the reason Java has never been associated with high performance, but nowadays there are a lot of Java powered devices in the world and lots of people are building applications for them.\n\nCompilers that produce native machine code do a great optimisation job because they know where the code is going to be executed. But because of the portability feature, the Java Compiler could not assume anything about where our program is going to run and leaves all the optimisations to be done by the JVM while loading or, even, running our code (or converting it to native code in the case of ART)\n\nIn this session you will not only learn how to make your Android code faster but also what to avoid when looking for critical performance and a bigger understanding of how the Java compiler works, and how these small changes affect to Dalvik VM and the ART runtime."
+}, {
+  "id": 23,
+  "startAt": "2016-04-07 15:30",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [22],
+  "title": "Loving Lean Layouts",
+  "description": "XML layouts are a fundamental part of Android development at all levels. Getting started is straightforward but creating efficient layouts while still achieving a high-level of control takes some practice and a few tricks.\n\nIn this session we will look at creating lean yet lovely layouts. We will discuss use cases and best practices for standard layouts, recognizing when a custom layout is for you, common mistakes and misconceptions, and some tricks and situational techniques.\n\nThis talk will center around code and IDE demonstrations. All of the code will be available via GitHub."
+}, {
+  "id": 24,
+  "startAt": "2016-04-07 15:30",
+  "duration": 50,
+  "roomId": 2,
+  "speakersId": [23],
+  "title": "Nearables and the Eddystone quest",
+  "description": "The IoT world was supposed to be disrupted by iBeacon, but we are still waiting.\nOn a other hand, a first step for a world of nearables, Google released the Eddystone beacon format and the proximity API.\nLet’s see where this is bringing us!"
+}, {
+  "id": 25,
+  "startAt": "2016-04-07 15:30",
+  "duration": 50,
+  "roomId": 3,
+  "speakersId": [24, 25],
+  "title": "Hinting around: text demystified",
+  "description": "What is text? The answer of those who know, and like 90s music, is most likely “baby don’t hurt me, don’t hurt me, no more”.\nIt is often said that text is the most difficult part of a graphics toolkit and that is for good reasons.\nIn this talk we’re going to give you the tools you need to understand text, and bend this mysterious creature to your will.\nFrom the typography theory behind the fonts system, to the intricacies of supporting Unicode bidirectional text runs, to the typesetting itself, that would be enough to drive someone crazy. And there’s still nothing being drawn on screen, with that alone!\nNext you’ll need to have a text rendering engine that takes care of loading the fonts, laying out the glyphs, taking care of hinting too, and then actually draw them somewhere (let alone doing all this in a performant way).\nStill here? Good, then prepare for a journey that will take you through the history, implementation and pain of dealing with text.\nBehold the amazing powers you’ll acquire, enabling you to tame all kinds of text you’ll see on Android."
+}, {
+  "id": 26,
+  "startAt": "2016-04-07 15:30",
+  "duration": 50,
+  "roomId": 4,
+  "speakersId": [26],
+  "title": "Are you looking for a realtime infrastructure behind your mobile app? Well, Firebase may be what you’re looking for..and even more!",
+  "description": "In 2011 two guys founded a startup about an online chat service with the target of letting any developers easily integrate it inside their web app.\nBut what happened as result?! Just one year later, the founders realized that these developers were using their chat APIs in a non-conventional manner:they were using them for data synchronization within realtime software environment!\nSo Firebase was born! Growing up as Cloud Database, today supported by Google, it presents itself as a powerful platform for mobile and web applications.\nWith this talk I’ll give you an overview and an introduction to the Firebase NoSQL database, how to integrate it into your Android app and how to put it into a realtime context!"
+}, {
+  "id": 27,
+  "startAt": "2016-04-07 16:20",
+  "duration": 40,
+  "roomId": 1,
+  "speakersId": [27],
+  "title": "Let’s Sprinkle some #PerfMatters on your ViewGroups",
+  "description": "Framework classes like RelativeLayout are extremely powerful but their first goal is to be versatile.This comes with significant performances costs that can prevent your app from being fast and smooth. This is especially important in constrained areas like list scrolling. The situation is not hopeless though, let’s see how we can remedy this by writing our own layouting and drawing logic where it matters."
+}, {
+  "id": 28,
+  "startAt": "2016-04-07 16:20",
+  "duration": 40,
+  "roomId": 2,
+  "speakersId": [28],
+  "title": "From clockwork to smartwatch",
+  "description": "The measurement of time has always had a big impact on our society. The way we tell the time greatly evolved especially in the last centuries, leading to the creation of always more accurate tools, up to the first wearable technological devices.\n\nIn this talk you will explore the evolution of horology. You will discover the common elements that remained unchanged across the centuries, and how you can still find them in modern wearable devices. You will also learn about how different it is to develop for a smartwatch, compared to a smartphone, especially considering the Android Wear platform."
+}, {
+  "id": 29,
+  "startAt": "2016-04-07 16:20",
+  "duration": 40,
+  "roomId": 3,
+  "speakersId": [29],
+  "title": "Kill your eventbus-driven architecture with fire",
+  "description": "Some long time ago event bus libraries took over the Android developers world. Majority of Android applications used one of the variety of libraries available – EventBus, Otto or others. People loved this pattern because it made communication between Android components a lot easier than before.\nTime has changed though. Otto was just officially deprecated in favor of RxJava. Many of us already know that reckless using of event buses can result in bad architecture that’s not easy to maintain. However, it’s still used in a big amount of projects.\nDuring this presentation Mateusz will show you how he shot his foot multiple times by using eventbus not wisely. He’ll tell you about the alternatives for different usecases (not only RxJava-based) and scenarios where buses still work well enough."
+}, {
+  "id": 30,
+  "startAt": "2016-04-07 16:20",
+  "duration": 40,
+  "roomId": 4,
+  "speakersId": [30],
+  "title": "Don’t Lose Your Head With Agile: Choosing The Right Approaches For A Software Project",
+  "description": "Agile is not a fashion trend. Agile is here to help software owners achieve product delivery the way their businesses dictate it.\nAgile has a different face for every project, since every project is unique itself.\nAgile is a diversity of methodologies, approaches, and tools, and every product owner must make the right combination and facilitate painless product development and successful delivery.\n\nThis report shows how it’s done:\n• Major and most popular approaches to project management\n• Compatibility matrix of projects and methodologies\n• Combinations of approaches that are applicable to the product and the owner’s expectations\n• How to solve problems and dismiss unnecessary procedures\n\nNo methodology is used in its “pure” form; every software owner must select optimal tools to form a powerful and perfectly suitable approach to the project.\nThis report is here to help them do that."
+}, {
+  "id": 31,
+  "startAt": "2016-04-07 17:00",
+  "duration": 20,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Coffee break",
+  "description": null
+}, {
+  "id": 32,
+  "startAt": "2016-04-07 17:20",
+  "duration": 50,
+  "roomId": 1,
+  "speakersId": [10],
+  "title": "10 ways to improve your Andorid app performance",
+  "description": "As Developer Advocate at Google, I am exposed to various Android apps. I bring together several rules of thumb: working, best practice solutions for making your Android app better, while avoiding the common pitfalls.\n\nActivity leaks\nScrolling\nConcurrency APIs 1\nSystem Abuse & Deprecation\nArchitecture\nAppendix Concurrency APIs 2"
+}, {
+  "id": 33,
+  "startAt": "2016-04-07 18:10",
+  "duration": 170,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "Barcamp",
+  "description": null
+}, {
+  "id": 34,
+  "startAt": "2016-04-07 21:00",
+  "duration": 180,
+  "roomId": 0,
+  "speakersId": null,
+  "title": "PARTY!",
+  "description": null
 }]

@@ -1,109 +1,271 @@
 [{
   "id": 1,
-  "name": "Paul Blundell",
-  "title": "Android Developer & Google Developers Expert, Novoda",
-  "bio": "Paul Blundell is an aspiring Software Craftsman and senior Android developer at Novoda. Before Novoda he worked at the AutoTrader and Thales with apps he's personally released racking up over 1 million downloads. A strong believer in software craftsmanship, SOLID architecture, clean code and testing, Paul has used this methodology to successfully nurture and create many Android applications. These include Channel 4’s new All4 video streaming application, the Tesco Launcher app; pre-installed for the Hudl2 tablet, MUBI a unique film streaming service and written the book “Learning Android application testing”.",
-  "website": "http://blog.blundellapps.co.uk/",
-  "twitter": "blundell_apps",
-  "github": "blundell",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/IMG_3578.jpg?itok=JB_YuTDz"
+  "name": "Wojtek Kaliciński",
+  "title": "Developer Advocate @ Google",
+  "bio": "Developer Advocate at Google, based in London, helping Android developers with new framework features, Android Studio and testing. I enjoy finding ways to make apps more usable, mostly through better development patterns and code optimizations. Follow my Android pro-tips on Twitter (@wkalic) and Google Plus (+WojtekKalicinski)",
+  "website": "https://medium.com/@wkalicinski",
+  "twitter": "wkalic",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/download.jpeg"
 }, {
   "id": 2,
-  "name": "Savvas Dalkitsis",
-  "title": "Senior software engineer, Shazam",
-  "bio": "Android geek, TDD nut, Senior Software Engineer at Shazam Entertainment.",
-  "website": "https://plus.google.com/u/0/+SavvasDalkitsis",
-  "twitter": "geeky_android",
-  "github": "savvasdalkitsis",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/avatar.jpg?itok=X7UDxXEA"
+  "name": "Hasan Hosgel",
+  "title": "Senior Android Engineer – Co-Lead GDG Berlin Android",
+  "bio": "Hasan Hoşgel is a dedicated Android developer with more then ten years of professional programming. Since 2010 also developing Android applications. Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Now working for Kitchen Stories and before that more then seven years for ImmobilienScout24.",
+  "website": "https://about.me/hosgel",
+  "twitter": "alosdev",
+  "github": "alosdev",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/photo.jpg"
 }, {
   "id": 3,
-  "name": "Matteo Doni",
-  "title": "Issue Triage Squad Lead, Skyscanner",
-  "bio": "Test Engineer at Skyscanner, the world's travel search engine, Matteo is also an Android opinionist and blogger for Coolsmartphone.com. Defect management and process improvements are his current challenge at Skyscanner, where Android is a big part of the mobile-first environment they operate in.\n\nCo-organiser of the Edinburgh Android User Group and of March of the Droids, Matteo is currently trying to fill the Internet with travel, cat and Android related content.",
-  "website": "http://www.matteodoni.com/",
-  "twitter": "todoleo",
-  "github": null,
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/rsz_matteodoni.jpg?itok=AF_N_xGA"
-}, {
-  "id": 4,
-  "name": "Achim Fischer",
-  "title": "Founder & Managing Director, Codingfish",
-  "bio": "Founder and Managing Director of Codingfish, Developer, Photographer, Traveller. Loves all kind of mobile devices. Currently developing the Rails based CMS Chimoora including a built-in API and an Android App. Likes to spend money for the newest mobile gadgets and camera equipment.",
-  "website": "https://www.codingfish.com/",
-  "twitter": "codingfish",
-  "github": null,
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/achimfischer.jpg?itok=HRB9YQ5z"
-}, {
-  "id": 5,
-  "name": "Ivan Jukić",
-  "title": "Mobile Developer, HRS Hotel Reservation Service",
-  "bio": "Android Developer at HRS - Hotel Reservation Service in Cologne. Big fan of droidcon conferences. Likes to discuss Android, UX, UI and new ideas. Also interested in photography, electric guitars, travelling and football.",
-  "website": "https://plus.google.com/u/0/+IvanJuki%C4%879",
-  "twitter": "juka1m0",
-  "github": "ivan9jukic",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/ivan.jpg?itok=ywEyuhFH"
-}, {
-  "id": 6,
-  "name": "Saad Kayyali",
-  "title": "Manager, GDG Dubai",
-  "bio": "Saad is the manager of GDG Dubai since it started in 2010. He worked on the android platform before its launch while working for Samsung. Since then, he's been advocating the technology for developers. Saad currently works in R&D in the health sector with Daman in Abu Dhabi.",
+  "name": "Sangsoo Nam",
+  "title": "Android Engineer @ Spotify",
+  "bio": "I am passionate about learning, discussing, and solving interesting problems. In the past, I worked as a full stack developer in the start-up industry. These days, I’m focusing on the Android development at Spotify. As we know, software industry is changed really rapidly. I strongly believe that everyone is solving their problem creatively. I look forward to opportunities to share my lessons and listen to lessons from others.",
   "website": null,
   "twitter": null,
   "github": null,
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/IMG_1390_0.JPG?itok=rKfSY4O8"
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/sangsoo-nam.jpeg"
+}, {
+  "id": 4,
+  "name": "Giovanni Laquidara",
+  "title": "Senior Software Engineer @ Snapback",
+  "bio": "Software Engineer @ Snapback developing Natural User Interfaces very passionate about Android development.\nI’m taking part in many IT communities as GDG-Rome and Mobile Tea and having fun as a speaker in many IT and developer conferences.\nVR enthusiast\nDigital Champion of Tivoli in 2015.",
+  "website": null,
+  "twitter": null,
+  "github": "joaobiriba",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Giovanni-Laquidara.jpg"
+}, {
+  "id": 5,
+  "name": "Alessandro Mancini",
+  "title": "Senior software developer @Snapback",
+  "bio": "Very passionate about Android development, Golang and coding.\nMember of Google Developer Group of Rome.\nSpeaker in many IT conferences.",
+  "website": null,
+  "twitter": "nichel",
+  "github": "nichel",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Aless-mancini.jpg"
+}, {
+  "id": 6,
+  "name": "Roberto Orgiu",
+  "title": "Android Developer @ Ennova",
+  "bio": "Android developer and enthusiastic, DroidCon and community fan, I love the Android environment and pushing the limits of the platform.",
+  "website": null,
+  "twitter": "_tiwiz",
+  "github": "tiwiz",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/roberto-orgiu.png"
 }, {
   "id": 7,
-  "name": "Gautier Mechling",
-  "title": "Software Craftsman, happn",
-  "bio": "Gautier is an aspiring Software Craftsman at happn in Paris, France.\nAgile thinker passionate in Android Development, he creates and maintains some FOSS tools to improve productivity.\nTalk to him about Kotlin, Clean Code, or Free Software and you will see his eyes light up.",
-  "website": "http://www.nilhcem.com",
-  "twitter": "Nilhcem",
-  "github": "Nilhcem",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/gautier-mechling.png?itok=h1bRUmu-"
+  "name": "Giuseppe Mariniello",
+  "title": "Software Engineer @ Ennova",
+  "bio": null,
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/giuseppe-mariniello.jpg"
 }, {
   "id": 8,
-  "name": "Ivan Morgillo",
-  "title": "Co-founder and Senior Android Developer, AlterEgo srls",
-  "bio": "I started playing with Android in late 2010 as an embedded engineer, then I moved to the “Application layer”, publishing a few pet projects, before turning it into a full-time job.\nMy personal most popular Android app is Gratis Ebooks for Kindle, a Kindle companion app with more than 100k downloads. I like Open Source projects. I’m a big fan of a lot of fancy Android libraries out there and I contribute with bug reporting, fixing and feedback.\nI approached Reactive Programming in 2013 and I started using it in Android thanks to RxJava by Netflix. I’m using it in every Android app I work on since then, because RxJava solves so many issues on Android and it gives you a new perspective about mobile programming.\nIn 2015, I published RxJava Essentials for Packt Publishing. I'm releasing Learning Embedded Android Programming for Packt Publishing and I’m currently writing Grokking Rx for Manning Publishing.",
-  "website": "https://medium.com/@hamen",
-  "twitter": "hamen",
-  "github": "hamen",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/me_20140107.jpg?itok=Y-vGtzRe"
+  "name": "Etienne Studer",
+  "title": "VP of Product Tooling @ Gradleware GmbH",
+  "bio": "Etienne has been working as a developer, architect, project manager, and CTO over the past 15 years. He has spent most of his time building software products from the ground up and successfully shipping them to happy customers. He had the privilege to work in different domains like linguistics, banking, insurance, logistics, and process management. Etienne is convinced that key ingredients of delivering software successfully are simplicity, test-driven development, build automation, customer feedback, continuous improvement, and a team of high technical and social skills.",
+  "website": null,
+  "twitter": "etiennestuder",
+  "github": "etiennestuder",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Etienne-Studer-copia.jpg"
 }, {
   "id": 9,
-  "name": "Željko Plesac",
-  "title": "Android Engineer, Infinum",
-  "bio": "Željko has been a part of the Infinum Android team for 3 years. He has mastered all those nasty bugs and errors which can occur while developing even the most complicated projects. His passions include ORM libraries and frameworks, Android Studio and contributing to open source. His love for Android Studio can only be matched by his hatred for Eclipse.",
+  "name": "Benjamin Augustin",
+  "title": "Android Software Craftsman @ Novoda",
+  "bio": "Benjamin is a Software Craftsman and Android developer at Novoda. Ben might have started thinking functionally when, as a kid, he got hit on his head by a ladder while doing maths homework. Suddenly, he could see functions everywhere, and now he’s sharing his visions with the world. Or maybe this is just one of those crazy made up back stories, who knows? One thing is sure, he is convinced that functional programming has a lot to teach us on our everyday work.",
   "website": null,
-  "twitter": "ZeljkoPlesac",
-  "github": "zplesac",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/zplesac.jpg?itok=4M-9LJsu"
+  "twitter": "dorvaryn",
+  "github": "dorvaryn",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Benjamin-Augustin-600x600.jpg"
 }, {
   "id": 10,
+  "name": "Boris Farber",
+  "title": "Developer Advocate @ Google",
+  "bio": "As a Developer Advocate I help promote the Android APIs to 3rd party developers. I advise to developers and partners, speak at conferences and write sample code on top of Google APIs.\n\nMy background is in Android development with a focus on User Interface and Java run-time. I am author of a Map Reduce library for Android and a Code Search shell in Go language. My blog can be found at www.api-solutions.com",
+  "website": "https://medium.com/@BorisFarber",
+  "twitter": "borisfarber",
+  "github": "borisf",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Photo.jpg"
+}, {
+  "id": 11,
+  "name": "Alessandro Di Carlo",
+  "title": "Security Specialist – System Analyst – Trainer – Test Specialist @ Tiger Security SRL",
+  "bio": "Alessandro is 23 years old and began to deal with IT Security just 14 years old.\nDuring high school, he continues to cultivate his passion and he devotes himself to research on various exploits in different platforms.\nDuring the second year of degree, he ranks second to forensic competition “Cybercoop” organized by the IISFA in Genoa.\nRegularly gives a talk to Universities (like the University of Camerino), GDG (Google Developer Group), schools etc.\nThese talks focus particularly in the field of IT Security, Digital Forensics and Penetration Testing of existing platforms.\nCurrently he is certifying as CIFI (Certified Information Forensics Investigator) and eCPPT (eLearnSecurity Certified Professional Penetration Tester).\nHe is a member of several expert groups in the field of IT Security and Digital Forensics which:\n– (ISC)2 Italy Chapter,\n– IISFA (International Information Systems Forensics Association),\n– ONIF (Osservatorio Nazionale Informatica Forense)\nHe holds many certifications in the field of IT Security, Digital Forensics and Penetration Testing on sites like Hakin9, PenTest Magazine and EforensicsMagazine”",
+  "website": null,
+  "twitter": "samaritan_o",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/AlessandroDiCarlo.jpg"
+}, {
+  "id": 12,
+  "name": "Alessandro Bizzarri",
+  "title": "Android Engineer @ Spotify",
+  "bio": "Alessandro has been developing for Android for the last 5 years. Currently works in the TV-experience team at Spotify, in Stockholm. His team is responsible for bringing the Spotify experience on the big screen, integrating with Sony PlayStation, Google Chromecast, Amazon FireTV and AndroidTV.\nAlessandro is the lead developer for the Spotify Connect feature, which allows to control other Spotify devices from your mobile phone.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Alessandro-bizzarri.jpg"
+}, {
+  "id": 13,
+  "name": "Dima Kunin",
+  "title": "Software Engineer @ Spotify",
+  "bio": "Dima has been developing for Android for the last 5 years. He has been part of small startups like Maps.Me, and big companies like Yandex and Spotify both as software engineer and team-leader. Now he is contributing to Spotify SDKs and Android Wear integration.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/dima-kunin.jpg"
+}, {
+  "id": 14,
+  "name": "Kelly Shuster",
+  "title": "Google Developer Expert – Android Developer @ Thoughtbot",
+  "bio": "Kelly Shuster is a software developer at thoughtbot, where she works on Android applications for a diverse range of clients.\nShe is passionate about creating apps that everyone can use, with a focus on baking accessibility in from the beginning.\nBefore mobile development, she spent several years as an embedded firmware engineer focused on disk drive read channel optimization.\nKelly is the director of Women Who Code Denver.\nShe enjoys sharing technical knowledge wherever she travels, from local meetups to international conferences alike.\nWhen not programing, she can be found dancing in a ballet studio or playing in the Rocky Mountains.",
+  "website": null,
+  "twitter": "kellyshuster",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Kelly-Shuster.jpg"
+}, {
+  "id": 15,
+  "name": "Jeroen Mols",
+  "title": "Driving innovation for Hue apps (Android and iOS) @ Philips",
+  "bio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process he acquired his software skills and refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he build his own file sharing platform (Wi-FileTransfer). One thing led to another and currently he drives the innovation for the official Philips Hue Android and iOS apps.\n\nOne of a kind, never-been-done before apps are what he enjoys most and complex systems, highly technical apps have become his expertise. Currently Jeroen helped realize three huge connected products, various high profile apps (e.g Tomorrowland festival app), actively contributes to open source (Landscape Video Camera) and loves interacting with the Android community.",
+  "website": "http://jeroenmols.com/",
+  "twitter": "molsjeroen",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Jeroen-Mols.jpg"
+}, {
+  "id": 16,
   "name": "Jon Reeve",
-  "title": "Freelance Mobile Developer, Director, Wasabi Code",
-  "bio": "A freelance mobile developer and amateur coffee fanatic with more than 6 years experience in Android (still got that G1!), and over 10 years previous in everything from JEE and Swing to C & C++. Passionate about clean code, tests and TDD, and taking things apart to see how they work.",
+  "title": "Mobile Developer @ Wasabi Code Ltd",
+  "bio": "A freelance mobile developer with more than 6 years experience in Android (still got that G1!), and over 10 years previous in everything from JEE and Swing to C & C++.\nHave a love of clean code, tests and TDD, and taking things apart to see how they work.",
   "website": "https://plus.google.com/+JonReeve",
   "twitter": "themightyjon",
   "github": "jonreeve",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/001_20150818_170038.jpg?itok=k4xCyvCS"
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Jon-Reeve.jpg"
 }, {
-  "id": 11,
-  "name": "Xavi Rigau",
-  "title": "Android Software Craftsman, Novoda",
-  "bio": "Xavi started working as an Android Developer in Barcelona 2010, moving to London and joining Novoda in 2013. Bringing experience in cross-platform development, Xavi has pushed Novoda forward with advocating team collaboration and best practices. Working on projects like Secret DJ, MUBI and multiple Tesco products and more recently Channel 4's All4 Android app. He’s now crafting, well tested, delightful Android apps.",
-  "website": "http://xavirigau.com/",
-  "twitter": "xrigau",
-  "github": "xrigau",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/DSC00004_small.JPG?itok=_YmhEOyU"
+  "id": 17,
+  "name": "Emil Sjölander",
+  "title": "Software Engineer @ Facebook",
+  "bio": "I’m Emil, an Interaction Designer and Software developer out of Sweden. I’ve developed a range of open source libraries used by many well known apps. I’m currently working at Facebook where I spend my time working on android UI performance.",
+  "website": null,
+  "twitter": "emilsjolander",
+  "github": "emilsjolander",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Emil-Sjolander-.jpg"
 }, {
-  "id": 12,
-  "name": "Iñaki Villar",
-  "title": "Software Engineer, Synchronoss",
-  "bio": "Mobile Software Engineer with deep passion in android development. Currently working in Ireland. Previously worked with Bank apps in Spain and tourism apps. Co-organizer of GDG Mallorca, I enjoy with all development related with Android",
-  "website": "https://plus.google.com/+I%C3%B1akiVillar",
-  "twitter": "inyaki_mwc",
-  "github": "cdsap",
-  "photo": "http://droidcon.ae/sites/global.droidcon.cod.newthinking.net/files/styles/profile_default/public/media/pictures/PA170094.jpeg?itok=TF3jGs_w"
+  "id": 18,
+  "name": "Pasquale Anatriello",
+  "title": "Android Engineer @ Facebook",
+  "bio": "I’ve been active in mobile development since 2007. Started with iOS and soon moved to the “green side”. Smoothly moving things on the screen and awesomeness have always been my mani goal.\nLiving in London since 2013. He works on Facebook rendering pipeline with focus on performances and coolness.",
+  "website": null,
+  "twitter": "pasqualeanat",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/97eb4dac-0363-4482-978b-3281e2a0ff06.jpg"
+}, {
+  "id": 19,
+  "name": "Martin Liersch",
+  "title": "Chief Application Architect @ CarnectivLabs",
+  "bio": "I am a freelance Android developer from Germany. I started to develop Android apps right when I got my Motorola Milestone. It all started with an app where students at my university could rate and comment on the meals in the cafeteria. A lot of apps followed the success of this first app and I now have a couple of dozen apps in the Play Store (and other app stores) – ranging from some unsuccessful ideas to 1 million+ downloads apps. I am also an organizer of the GTUG Lake Constance and a frequent speaker at Android events.",
+  "website": "http://blog.goddchen.de/",
+  "twitter": "goddchen",
+  "github": "goddchen",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/liersch.jpg"
+}, {
+  "id": 20,
+  "name": "Matteo Bonifazi",
+  "title": "Google Developer Expert – Android developer @ Open Reply",
+  "bio": "Senior consultant mainly focused on Android application development and keen to face new challenges. Background in Computer Engineering brings strong analytical skills and problem solving attitude. Team player with good social skills, positive and “easy to adapt” approach.\nExperienced to work with enterprise companies as Sky Italia, Fiat, Ferrero, and Tesco for international\napplications. All projects I have been involved allows me to learn several side of Android platform.\n\nWorking for consulting company, as Reply is, has me taken the advantage to create one-on-one relationship with partners and to improve relationship skills. I’ve communicated daily with technical and no-tech customer people with the goal to achieve their expectation about Android. Trying to share my experience and what I’ve learnt about Android using the GDG Rome, where I am an active member, and the Google Developer Expert program (joined in April 2015). The main purpose is to spread Android technologies to communities with meetup, hackthon, devfest and conference in general. My speaking skills have been trained attending conferences, as a speaker. Droidcon UK, Droidcon IT, etc., and internal company.\n\nAuthor of the book “Sviluppare applicazioni per Android in 7 giorni” and coauthor of “Android Programmazione Avanzata”​",
+  "website": "https://androidinsettegiorni.wordpress.com/",
+  "twitter": "mbonifazi",
+  "github": "dekrandroid",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/bonifazi.png"
+}, {
+  "id": 21,
+  "name": "Raimon Rafols",
+  "title": "Engineering Manager @ AXA Group Solutions Spain",
+  "bio": "Board of advisors at @neapolisvng. Winner of #AH8 Barcelona with @InGroupMe @AngelHack 2015 batch, @BlackBerry Elite. Retired #Demoscener​",
+  "website": "http://blog.rafols.org/",
+  "twitter": "rrafols",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Ramon-Ra%CC%80fols.jpg"
+}, {
+  "id": 22,
+  "name": "Huyen Tue Dao",
+  "title": "Android Developer @ Trello & Android GDE",
+  "bio": "Huyen Tue Dao is an Android developer at Trello. She graduated with a BS and MS in Computer and Electrical Engineering from the University of Maryland, College Park and has been developing for Android since 2010.\n\nThe only other thing that keeps her up as late as development (and often longer) is gaming: PC, console, board, card, anything.",
+  "website": "http://www.randomlytyping.com/",
+  "twitter": "queencodemonkey",
+  "github": "queencodemonkey",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Huyen-Tue-Dao.jpg"
+}, {
+  "id": 23,
+  "name": "Damien Cavaillès",
+  "title": "Developer @ jeChercheUnDev.fr",
+  "bio": "Passionated by the changes that brought mobility and connected to our living style. Also Organizer of a Startup Weekend “Maker Edition” in Lille and Startup Weekend Global Facilitator.",
+  "website": null,
+  "twitter": "TheDamfr",
+  "github": "TheDamfr",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/selfie.jpg"
+}, {
+  "id": 24,
+  "name": "Sebastiano Poggi",
+  "title": "Google Developer Expert – Android Craftsman @Novoda",
+  "bio": "Emerging from the foggy plains of northern Italy, where he left his job at a wearables startup, Sebastiano moved to London aiming to put his curls at the service of great Android apps. Regularly speaking at conferences and blogging got him into the Google Developer Expert programme in 2014. Now he spends his time obsessing over UI and UX details while coding some rather cool apps at Novoda.",
+  "website": "https://medium.com/@seebrock3r",
+  "twitter": "seebrock3r",
+  "github": "rock3r",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/sebastiano-poggi.jpg"
+}, {
+  "id": 25,
+  "name": "Eugenio Marletti",
+  "title": "Senior Android Developer @ Clue",
+  "bio": "Stuck in a love/hate relationship with the green droid. Addicted to challenges. Made in Italy, grown on the Web, currently proud Berliner.",
+  "website": null,
+  "twitter": "workingkills",
+  "github": "Takhion",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/3f952ce.jpg"
+}, {
+  "id": 26,
+  "name": "Alessandro Martellucci",
+  "title": "Senior Android Developer and Android Tech Lead @ Open Reply",
+  "bio": "Computer Scientist at Open Reply with a strong attitude to work with other people. Likes working hard and solving problems. Specialist in mobile development sector, especially for Android applications, everyday tempts to make sure everything would be innovative. Experienced in mobile-side and server-side development, domain modelling, analysis requirements but always careful of world changes",
+  "website": null,
+  "twitter": "martellux",
+  "github": "martellux",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/1917144_10153329180131279_7184471159636361439_n.jpg"
+}, {
+  "id": 27,
+  "name": "François Blavoet",
+  "title": "Senior Android Engineer @ Deezer",
+  "bio": "I devote a large part of my time to polishing pixels & improving the performances of Deezer’s Android app.\n\nMore recently, I have been involved in the Material rewrite of the whole UI stack.",
+  "website": null,
+  "twitter": "francoisblavoet",
+  "github": "Teovald",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/francois-blavoet.jpg"
+}, {
+  "id": 28,
+  "name": "Daniele Bonaldo",
+  "title": "Android Software Craftsman and Horologist @ Novoda LTD",
+  "bio": "He’s passionate about photography and wearable technologies.\nBefore moving to London, he worked at i’m Spa, an Italian startup where he had the chance to play with the Android platform while developing one of the first smartwatches on the market (“Doing smartwatchases before it was cool” as they said).",
+  "website": "https://plus.google.com/+DanieleBonaldo",
+  "twitter": "danybony_",
+  "github": "danybony",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/daniele-bonaldo.jpeg"
+}, {
+  "id": 29,
+  "name": "Mateusz Herych",
+  "title": "Google Developer Expert – Android Tech Lead @ IG",
+  "bio": "Mateusz works as an Android Tech Lead at IG, coding Android apps for financial markets investments. Apart from his professional work he is a co-organizer for GDG Kraków meetups and a member of the Google Developer Experts program. Fresh father of twins, filling this C4P form having a child on his arm.",
+  "website": null,
+  "twitter": "mherych",
+  "github": "partition",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/mateusz-herych.jpeg"
+}, {
+  "id": 30,
+  "name": "Anastasiya Berestovaya",
+  "title": "Project Manager @ MobiDev",
+  "bio": "Anastasiya Berestovaya is a Project Manager at MobiDev who has been leading projects from mere sketches and ideas to successful implementation and delivery.\nOver her 5 years in IT she has been managing development of startup products and enterprise systems, and her main goal is to bring her projects to success with verve and dedication.\nShe knows how to assemble the right team for a project and has insights into subtleties of every project stage, business analysis and risk analysis.\nAnastasiya has high standards of what she calls a good job done.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Anastasiya-Berestovaya.jpg"
 }]
