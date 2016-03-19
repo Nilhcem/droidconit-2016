@@ -129,7 +129,7 @@
   "name": "Jeroen Mols",
   "title": "Driving innovation for Hue apps (Android and iOS) @ Philips",
   "bio": "Jeroen has a real passion to build things, which continuously challenges him to experiment and learn. In the process he acquired his software skills and refocussed his master in Electrical engineering to become an Android developer. Starting off with highly technical prototypes for Wi-Fi connected products, he build his own file sharing platform (Wi-FileTransfer). One thing led to another and currently he drives the innovation for the official Philips Hue Android and iOS apps.\n\nOne of a kind, never-been-done before apps are what he enjoys most and complex systems, highly technical apps have become his expertise. Currently Jeroen helped realize three huge connected products, various high profile apps (e.g Tomorrowland festival app), actively contributes to open source (Landscape Video Camera) and loves interacting with the Android community.",
-  "website": "http://jeroenmols.com/",
+  "website": "http://jeroenmols.com",
   "twitter": "molsjeroen",
   "github": null,
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Jeroen-Mols.jpg"
@@ -165,7 +165,7 @@
   "name": "Martin Liersch",
   "title": "Chief Application Architect @ CarnectivLabs",
   "bio": "I am a freelance Android developer from Germany. I started to develop Android apps right when I got my Motorola Milestone. It all started with an app where students at my university could rate and comment on the meals in the cafeteria. A lot of apps followed the success of this first app and I now have a couple of dozen apps in the Play Store (and other app stores) – ranging from some unsuccessful ideas to 1 million+ downloads apps. I am also an organizer of the GTUG Lake Constance and a frequent speaker at Android events.",
-  "website": "http://blog.goddchen.de/",
+  "website": "http://blog.goddchen.de",
   "twitter": "goddchen",
   "github": "goddchen",
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/liersch.jpg"
@@ -174,7 +174,7 @@
   "name": "Matteo Bonifazi",
   "title": "Google Developer Expert – Android developer @ Open Reply",
   "bio": "Senior consultant mainly focused on Android application development and keen to face new challenges. Background in Computer Engineering brings strong analytical skills and problem solving attitude. Team player with good social skills, positive and “easy to adapt” approach.\nExperienced to work with enterprise companies as Sky Italia, Fiat, Ferrero, and Tesco for international\napplications. All projects I have been involved allows me to learn several side of Android platform.\n\nWorking for consulting company, as Reply is, has me taken the advantage to create one-on-one relationship with partners and to improve relationship skills. I’ve communicated daily with technical and no-tech customer people with the goal to achieve their expectation about Android. Trying to share my experience and what I’ve learnt about Android using the GDG Rome, where I am an active member, and the Google Developer Expert program (joined in April 2015). The main purpose is to spread Android technologies to communities with meetup, hackthon, devfest and conference in general. My speaking skills have been trained attending conferences, as a speaker. Droidcon UK, Droidcon IT, etc., and internal company.\n\nAuthor of the book “Sviluppare applicazioni per Android in 7 giorni” and coauthor of “Android Programmazione Avanzata”​",
-  "website": "https://androidinsettegiorni.wordpress.com/",
+  "website": "https://androidinsettegiorni.wordpress.com",
   "twitter": "mbonifazi",
   "github": "dekrandroid",
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/bonifazi.png"
@@ -183,7 +183,7 @@
   "name": "Raimon Rafols",
   "title": "Engineering Manager @ AXA Group Solutions Spain",
   "bio": "Board of advisors at @neapolisvng. Winner of #AH8 Barcelona with @InGroupMe @AngelHack 2015 batch, @BlackBerry Elite. Retired #Demoscener​",
-  "website": "http://blog.rafols.org/",
+  "website": "http://blog.rafols.org",
   "twitter": "rrafols",
   "github": null,
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Ramon-Ra%CC%80fols.jpg"
@@ -192,7 +192,7 @@
   "name": "Huyen Tue Dao",
   "title": "Android Developer @ Trello & Android GDE",
   "bio": "Huyen Tue Dao is an Android developer at Trello. She graduated with a BS and MS in Computer and Electrical Engineering from the University of Maryland, College Park and has been developing for Android since 2010.\n\nThe only other thing that keeps her up as late as development (and often longer) is gaming: PC, console, board, card, anything.",
-  "website": "http://www.randomlytyping.com/",
+  "website": "http://www.randomlytyping.com",
   "twitter": "queencodemonkey",
   "github": "queencodemonkey",
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Huyen-Tue-Dao.jpg"
@@ -268,4 +268,373 @@
   "twitter": null,
   "github": null,
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Anastasiya-Berestovaya.jpg"
+}, {
+  "id": 31,
+  "name": "Nick Butcher",
+  "title": "Developer Advocate @ Google",
+  "bio": "Nick is an Android Design/Developer Advocate in Google’s London office where he helps designers and developers to create sublime apps. He has been making Android apps for over 5 years and has worked with hundreds of companies to help them to make the most of the platform. Nick is a frequent contributor to the official android developers blog, conference speaker, host of Google Developers shows (Android Design in Action, Android Office Hours, DevBytes), co-author of the ‘Android Design for Developers’ Udacity course and shares pro-tips on Google+ and Github. Nick has worked on Google apps such as Google I/O and Android Device Manager. Recently Nick has been focused on helping designers and developers to understand and create beautiful material design apps.",
+  "website": null,
+  "twitter": "crafty",
+  "github": "nickbutcher",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/me_square.jpg"
+}, {
+  "id": 32,
+  "name": "Enrique López Mañas",
+  "title": "Google Developer Expert – Contractor @Stadtwerke München GmbH",
+  "bio": "Enrique is a Google Developer Expert, and IT Consultor normally based in Munich, Germany (although is hard to catch him up there for more than a few weeks). He develops software and writes about it for money and fun. He spends his free time developing OpenSource code, writing articles, learning languages or taking photographies. He loves nature, beer, traveling, and talking about him in third person.",
+  "website": "http://www.lopez-manas.com",
+  "twitter": "eenriquelopez",
+  "github": "kikoso",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/575373_3578247571089_1120136129_33450891_1271959558_n.jpg"
+}, {
+  "id": 33,
+  "name": "Alex Florescu",
+  "title": "Mobile Engineering Lead @ YPlan",
+  "bio": "Alex is a Senior Android developer at YPlan, calling out of London, UK. He was previously the Android lead for Yahoo Fantasy Football and before that spent some time doing back-end Java development for Yahoo and full-stack development at Goldman Sachs. You can find more of his writings at www.florescu.org or medium.com/@flor3scu",
+  "website": "https://medium.com/@flor3scu",
+  "twitter": "flor3scu",
+  "github": "anothem",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/me_fb.jpg"
+}, {
+  "id": 34,
+  "name": "Francesca Tosi",
+  "title": "Mobile Engineering Lead @ YPlan",
+  "bio": "Alex is a Senior Android developer at YPlan, calling out of London, UK. He was previously the Android lead for Yahoo Fantasy Football and before that spent some time doing back-end Java development for Yahoo and full-stack development at Goldman Sachs. You can find more of his writings at www.florescu.org or medium.com/@flor3scu",
+  "website": "https://plus.google.com/+FrancescaTosi",
+  "twitter": "francescatosi",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Francesca-Tosi.jpg"
+}, {
+  "id": 35,
+  "name": "Matteo Gazzurelli",
+  "title": "Founder / Android Developer @ DuckMa Srl",
+  "bio": "I started to develop apps for the Android back in 2009, first as an an employee and then as a contractor, until I decided it was time for me to fund my first company, DuckMa.\nDuckMa is a small and mobile focused design and software boutique located in Northern Italy primarily working with startups and national leading brands.\nWe are a group of passionate professionals who make handcrafted mobile apps both native and hybrid.\nWe complement our software development services with teaching activities in the mobile space.\nDuring the last year we specialised our competences on iBeacon technology working with some leading edge customers who operate in the proximity marketing field.",
+  "website": null,
+  "twitter": "gazzumatteo",
+  "github": "gazzumatteo",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/04b66ce.jpg"
+}, {
+  "id": 36,
+  "name": "Mario Viviani",
+  "title": "Technology Evangelist @ Amazon.com",
+  "bio": "Mario Viviani, Android Developer since 2010, has been nominated Google Developer Expert (GDE) for Android by Google in 2013. Mario has published more than 90 apps on Google Play. In 2011 Mario decided to create the startup Mariux Apps, based in Milan, Italy, focused on Mobile Applications Development. He’s member of Talent Garden, a network of co-working spaces focused on digital and innovation. As Mariux Apps his products received 12.000.000+ total downloads and are currently ranked in the Top 100 apps in a lot of Categories in Google Play. At Mariux Apps he’s also working with cutting edge technologies like Google Glass and Leap Motion. Mario is really active in the Android community, attending a lot of events worldwide, helping Android developers build new, compelling and well-received apps.",
+  "website": null,
+  "twitter": "mariuxtheone",
+  "github": "Mariuxtheone",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/mario-viviani.jpeg"
+}, {
+  "id": 37,
+  "name": "Caroline Smith",
+  "title": "UI/UX Designer @ Novoda",
+  "bio": "Caroline is a UI/UX designer at Novoda Berlin, where she designs for Android. She is a fan of hockey, designer/developer pairing and material design.",
+  "website": null,
+  "twitter": "ihatepeas",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Caroline-Smith.jpg"
+}, {
+  "id": 38,
+  "name": "Lydia Selimalhigazi",
+  "title": "Senior Interactive Designer @Clue",
+  "bio": "Lydia is Senior Interaction Designer @ Clue with 9 years experience as a designer. Lydia is very enthusiastic about the challenges Android offers UX/UI wise and she considers each day as an opportunity to learn something new and be a better designer.",
+  "website": "https://dribbble.com/lyslydia",
+  "twitter": "lys_lydia",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/lydhia.png"
+}, {
+  "id": 39,
+  "name": "Martino Luca",
+  "title": "Software Engineer @ Facebook",
+  "bio": "Martino Luca is a software engineer in Facebook’s London Engineering office, where he works on the Infer development team.",
+  "website": null,
+  "twitter": null,
+  "github": "martinoluca",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/martino-luca.png"
+}, {
+  "id": 40,
+  "name": "Ivan Morgillo",
+  "title": "Co-founder and Senior Android Developer @ AlterEgo",
+  "bio": "I started playing with Android in late 2010 as an embedded engineer, then I moved to the “Application layer”, publishing a few pet projects.\nMy personal most popular Android app is Gratis Ebooks for Kindle, a Kindle companion app with more than 100k downloads. I like Open Source projects. I’m a big fan of a lot of fancy Android libraries out there and I contribute with bug reporting, fixing and feedback.\nI approached Reactive Programming in 2013 and I started using it in Android thanks to RxJava by Netflix. I’m using it in every Android app I work on since then, because RxJava solves so many issues on Android and it gives you a new perspective about mobile programming.\nIn 2013 I co-founded Alter Ego, a mobile and embedded solutions company. In 2015 I published RxJava Essentials for Packt Publishing and I’m currently writing Grokking Rx for Manning Publishing.",
+  "website": "https://medium.com/@hamen",
+  "twitter": "hamen",
+  "github": "hamen",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Ivan-morgillo.jpg"
+}, {
+  "id": 41,
+  "name": "Gabriele Marangon",
+  "title": "UI and Interaction Designer @ Synesthesia",
+  "bio": "I’m an android enthusiast and a passionate graphic designer. I love to work in team with developers to deliver Apps crafted with love.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/gabriele-marangon.png"
+}, {
+  "id": 42,
+  "name": "Gautier Mechling",
+  "title": "Software Craftsman @ happn",
+  "bio": "Agile thinker passionate in Android Development, he creates and maintains some FOSS tools to improve productivity.\nTalk to him about Kotlin, Clean Code, or Free Software and you will see his eyes light up.",
+  "website": "http://www.nilhcem.com",
+  "twitter": "Nilhcem",
+  "github": "Nilhcem",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Gautier-Mechling.jpg"
+}, {
+  "id": 43,
+  "name": "Massimo Carli",
+  "title": "UI and Interaction Designer @ Synesthesia",
+  "bio": "I’m an android enthusiast and a passionate graphic designer. I love to work in team with developers to deliver Apps crafted with love.",
+  "website": "http://www.massimocarli.eu",
+  "twitter": "massimocarli",
+  "github": "massimocarli",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/massimo-carli.jpg"
+}, {
+  "id": 44,
+  "name": "Tam Hanna",
+  "title": "CEO @ Tamoggemon Content Network",
+  "bio": "Having been in the tech market since 2004, Tam Hanna has seen the mobile space as developer, journalist and consultant.\nHe currently focuses on mobile and web development.\nIn his spare time, he writes German scientific books, newspaper articles for tech magazines and scientific calculators for mobile phones.",
+  "website": null,
+  "twitter": "tamhanna",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Tam-Hanna.jpg"
+}, {
+  "id": 45,
+  "name": "Svetlana Isakova",
+  "title": "Technical Evangelist @ JetBrains",
+  "bio": "She is working on the Kotlin language at JetBrains since 2011.\nShe is one of the authors of “Kotlin in Action” and a frequent conference speaker.",
+  "website": null,
+  "twitter": "sveta_isakova",
+  "github": "svtk",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/SvetlanaIsakova.jpeg"
+}, {
+  "id": 46,
+  "name": "Hoang C. Huynh",
+  "title": "Experience Strategist, Advisor and Consultant, CSPO",
+  "bio": "I work as a consultant to design strategies and services where the “”experience”” is very valuable.\nWith clients ranging from the large multinational market leader company to the small innovative startup, from the huge financial group to the public sector, I strive to design, digital or traditional systems, that impact the lives of thousands of people by moving large flows of money and information.\nI’m an ill fated romantic technonerd, I live 10 years in the future and I have a very clear point of view on the definition of “experience”, “design” and “innovation”, but I use to talk about it only during coffee breaks",
+  "website": "http://www.privations.net",
+  "twitter": null,
+  "github": "aetheros",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/HOANGhuynh.jpg"
+}, {
+  "id": 47,
+  "name": "Luca Gaverina",
+  "title": null,
+  "bio": null,
+  "website": "https://500px.com/gheivs",
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/luca-gaverina.jpg"
+}, {
+  "id": 48,
+  "name": "Alessio Cucini",
+  "title": "Managing director & co-founder @ BlueUp Srls",
+  "bio": "Alessio Cucini received the Laurea degree (cum laude) in telecommunications engineering and the Ph.D. degree in electromagnetic engineering from the University of Siena, Italy, in 1999 and 2003, respectively.\nHe has been Research Associate at the Department of Information Engineering of University of Siena, from 2004 to 2009.\nHe was co-founder (2004) and is presently President of WaveComm S.r.l., a spin-off company of University of Siena, active in the fields of electronic engineering, wireless systems, antennas, sensors, radiofrequency and microwave systems.\nIn 2014, he co-founded BlueUp Srls, where he serves as Managing Director. BlueUp is included in the Italian registry of Innovative Startup companies. BlueUp provides products and services which integrates Bluetooth Low Energy (BLE) technology with mobile platforms, and is the main Italian manufacturer and provider of BLE beacons, certified for both iBeacon and Eddystone technologies.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Alessio-cucini.jpg"
+}, {
+  "id": 49,
+  "name": "Samuele Forconi",
+  "title": "Software Engineer & Co-founder @ BlueUp Srls",
+  "bio": "Samuele Forconi received the Laurea degree (cum laude) in computer science engineering from the University of Siena, Italy, in 2008.\nSince 2009 he is the software and firmware developer for WaveComm S.r.l., a spin-off company of University of Siena, active in the fields of electronic engineering, wireless systems, antennas, sensors, radiofrequency and microwave systems.\nIn 2014, he co-founded BlueUp Srls, where he serves as software and firmware developer.",
+  "website": null,
+  "twitter": null,
+  "github": "samueleforconi",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Samuele-forconi.jpg"
+}, {
+  "id": 50,
+  "name": "Andrey Khitryy",
+  "title": "Android Developer and Team Leader @ Trinity Digital",
+  "bio": "Developer, musician, linux user, dogs hugger.\nStudied: LAPPEENRANTA UNIVERSITY OF TECHNOLOGY · 2010 Summer school, Android, Data mining, Product design.\nUNIVERSITY OF HELSINKI · 2011. Exchange student, Computer Science.\nPETROZAVODSK STATE UNIVERSITY · 2012. Bachelor, Applied mathematics and information sciences.\nJury head on Russia Android Challenge in 2014. (judge, wrote almost all job categories, the sole author of all correspondence tasks, except for tests).\nSpeaker on Droidcon Russia in 2015.\nDeveloped from a C library for XMPP (student projects) and integration of the modules into the kernel Linux (Maemo / Meego projects)\nFinishing automation of taxi services and communication Android devices whith German technology (with documentation in German).",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Andrey-Khitryy.jpeg"
+}, {
+  "id": 51,
+  "name": "Wiebe Elsinga",
+  "title": "Android GDE @ GDG Dutch Android User Group",
+  "bio": "Besides being a Google Developer Expert for Android, I’m also an Android Developer with a passion for UX and design.\nCo-Founder/Organizer of the Google Developer Group Dutch Android User Group and working at Itude Mobile.\nBasically a EntrepreNerd. Mainly focused on the design and development of mobile applications.",
+  "website": "http://wiebe-elsinga.com/blog",
+  "twitter": "welsinga",
+  "github": "welsinga",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Wiebe-Elsinga.png"
+}, {
+  "id": 52,
+  "name": "Maciej Górski",
+  "title": "Android Developer @ EL Passion",
+  "bio": "Maciej is a passionate Android developer. He cares about writing clean code and less of it. He is spending time to automate things to save even more time. He also bikes a lot and would love to be able to code while doing it… using only mind controlled wearables or bikeables.",
+  "website": null,
+  "twitter": "mg6maciej",
+  "github": "mg6maciej",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/maciej-gorski.jpeg"
+}, {
+  "id": 53,
+  "name": "Sylwester Madej",
+  "title": "CEO @ Outline",
+  "bio": "Co-founder of Outline – team of Android experts, crafting beautiful apps. Experienced Java (9 yrs) and Android (5 yrs) developer – created both enterprise systems in TouK and multiplayer games in Gadu Gadu. Currently focused on optimizing development speed. Likes to share knowlege by blogging , training developers and speaking on events e.g. Droidcon, Mobilization, Warsjawa.",
+  "website": null,
+  "twitter": "smdremedy",
+  "github": "smdremedy",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Sylwester-Madej.jpg"
+}, {
+  "id": 54,
+  "name": "Fabio Collini",
+  "title": "Android developer @ Cynny",
+  "bio": "Fabio Collini is an Android developer since 2009, first as a freelance with two apps on Play Store and then as senior developer. Now he is working on the Android version of Cynny, an innovative app that allows to easily create and share instant videos. He is one of the authors of the second edition of Android Programmazione Avanzata, an Italian book dedicated to some advanced aspects of Android development. He is a co-owner and writer for the blog CoseNonJaviste (http://www.cosenonjaviste.it/) dedicated to Java and Android platforms.",
+  "website": null,
+  "twitter": "fabiocollini",
+  "github": "fabioCollini",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/fabio-collini1.jpeg"
+}, {
+  "id": 55,
+  "name": "Matthew Watkins",
+  "title": "Visual artist and digital strategist",
+  "bio": "Matthew Watkins was born in Manchester, England, in 1962, raised in Ontario, Canada, and now lives in Bari, Italy.\nA graduate in Communication and Design from the Ontario College of Art, Matthew works as an artist and digital strategist.\nHe has been one of the pioneering exponents in the field of mobile digital art, with paintings of subjects ranging from noir to political satire to fantasy worlds.\nMatthew has exhibited in galleries and museums internationally, attracting the interest of prestigious publications including the Washington Post, Daily Telegraph, Daily Mail, Wired and GQ.\nMatthew has guided Italian business in the implementation of digital strategy and is a frequent speaker on the subject of digital art and technology.",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Matthew-Watkins.jpg"
+}, {
+  "id": 56,
+  "name": "Juhani Lehtimäki",
+  "title": "Android developer & design fan",
+  "bio": "Juhani is an Android developer with design interest. He writes blog, makes noise in internet and has been speaking in multiple conferences about Android design from dev point of view.",
+  "website": "http://www.androiduipatterns.com",
+  "twitter": "lehtimaeki",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Juhani-Lehtimaki.jpg"
+}, {
+  "id": 57,
+  "name": "Pedro Vicente Gómez Sánchez",
+  "title": "Senior Android Developer @ Karumi",
+  "bio": "I’m a Software Engineer really focused on new technologies, open source, clean code and testing. Right now I’m working as a Senior Android Developer at Karumi, a little Software Development Studio based on the software quality from the code and product points of view. I’ve been also working at some companies like Tuenti or Droiders as Senior Android Developer. I try to improve my knowledge about other technologies and languages everyday with a really interesting goal, write the best possible code and the most awesome application.",
+  "website": null,
+  "twitter": "pedro_g_s",
+  "github": "pedrovgs",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Pedro-Vicente-Go%CC%81mez-Sa%CC%81nchez.jpg"
+}, {
+  "id": 58,
+  "name": "Carlo Pescio",
+  "title": "Independent consultant",
+  "bio": "I’ve been creating software for over 35 years, learning, practicing, teaching and writing. In the paper era (‘90s) I published about OOP/OOD on IEEE Software, the Journal of Object Oriented Programming, the C++ Report, Object Expert, etc. I still write occasionally: my latest work is an exploration of Aspect-Oriented Design at aspectroid.com.\nIn my everyday life, I design software-intensive systems at different scales, using a number of paradigms, languages and technologies. I complement practice with a rather strong theoretical background, and I tend to go where no one has gone before.",
+  "website": null,
+  "twitter": "carlopescio",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Carlo-Pescio.png"
+}, {
+  "id": 59,
+  "name": "Nazneen Rupawalla",
+  "title": "Application Developer @ ThoughtWorks",
+  "bio": "“Nazneen is an Application Developer at ThoughtWorks. She has been into Android development for the last few years and has been involved in a wide variety of Android projects.\nShe has conducted four Android Bootcamps successfully for ThoughtWorks and has also been involved in code-jams for a local issue tracker application called Project Kranti. She has also been involved in developing event/conference applications for ThoughtWorks.\nShe has also been an active speaker in the Android community, and has spoken at various conferences.\nHer article on Building Secure Android apps was published in PCQuest (May 2015).\nShe is an Android enthusiastic, always eager to explore and learn something new.\nBlogs:\n\nhttps://www.thoughtworks.com/insights/blog/who-do-you-think-owns-your-android-app\n\nhttp://pullingoutallstops.blogspot.in/",
+  "website": "http://pullingoutallstops.blogspot.fr",
+  "twitter": "nzneen",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Nazneen-Rupawalla.jpg"
+}, {
+  "id": 60,
+  "name": "Bhimsen Padalkar",
+  "title": "Application Developer @ ThoughtWorks",
+  "bio": null,
+  "website": null,
+  "twitter": "bhimsen_p",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Bhimsen-Padalkar.jpg"
+}, {
+  "id": 61,
+  "name": "Xavier Hallade",
+  "title": "Google Developer Expert – Application Engineer @Intel Corporation",
+  "bio": "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies.\nHe’s a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
+  "website": "http://ph0b.com",
+  "twitter": "ph0b",
+  "github": "ph0b",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/xavier-hallade.jpg"
+}, {
+  "id": 62,
+  "name": "Kristijan Jurković",
+  "title": "Android Team Lead @ Infinum",
+  "bio": "After experimenting with frontend and backend development, his destiny was sealed when he bought his first android phone in 2010.\nHe gained experience by working on many challenging projects for different types of industries from telecommunication providers, gas and energy suppliers to mobile banking solutions.",
+  "website": null,
+  "twitter": "kjurkovic",
+  "github": "kjurkovic",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Kristijan-Jurkovic%CC%81.jpg"
+}, {
+  "id": 63,
+  "name": "Yonatan Levin",
+  "title": "Android Evangelist & Developer @ Gett",
+  "bio": "A hard worker, hungry for success, with a spirit of an entrepreneur. Yonatan loves to create, build and just do stuff in the technology field. His main expertise is Android and Mobile UX, but he is friendly to backend technologies and people in general. Yonatan’s hobby is to help people learn and adopt new technologies, as a result of which, he organized a largest Android community @ Google Campus TLV, that fully sponsored by Google.",
+  "website": null,
+  "twitter": "parahall",
+  "github": "parahall",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Yonatan-Levin.jpg"
+}, {
+  "id": 64,
+  "name": "Michelantonio Trizio",
+  "title": "Chief Technology Officer @ Qiris",
+  "bio": "Engineer, Nerd, Entrepreneur. I took master degree in computer Engineering with thesis in Artificial Intelligence at Polytechnic University of Bari in 2007. I worked for several years in companies in the south of Italy as developer. I attended startup school in San Francisco in 2011. Back in Italy I’ve started working on my own company. GDG Bari founder and community lead since 2012. I work in Android and Java is my second language.",
+  "website": null,
+  "twitter": "mik3lantoni0",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/Michelantonio-Trizio.jpg"
+}, {
+  "id": 65,
+  "name": "Tiziano Basile",
+  "title": "Developer @ GDG Bari",
+  "bio": "In love with Android since I’ve been switched from an iPhone 3GS to a Samsung Galaxy Next in late 2012, now a proud owner of a Nexus 5; I begun programming plugins for WordPress platform (and trivial projects for the web), now completely switched in Java and Android development.",
+  "website": null,
+  "twitter": "tizionario",
+  "github": "tizionario",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/tiziano-basile.jpeg"
+}, {
+  "id": 66,
+  "name": "Pietro F. Maggi",
+  "title": "EMEA SW Consultant @ Zebra Technologies",
+  "bio": "I’ve 15 years of development experience from 8-bit MCU to HTML5 web apps architecting solutions for Enterprise Mobility before it was trendy.\nI was part of the technical team testing the first Industrial Mobility Android devices and development tools released by Motorola Solutions in 2011 (now part of Zebra Technologies).\nAs a Sales Engineer for Zebra Technologies, I’ve the opportunity to present to large industrial groups and public organizations about how to upgrade from legacy Industrial Mobilility to the new generation of Mobile OSes and modern architectures.\nI’m a regular speaker at international conferences such as Droidcon and Apps World.",
+  "website": "http://pietromaggi.com",
+  "twitter": "pfmaggi",
+  "github": "pfmaggi",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/pietro-f.-maggi.png"
+}, {
+  "id": 67,
+  "name": "Sebastiano Gottardo",
+  "title": "Google Developer Expert – Android Engineer @ musixmatch",
+  "bio": "Sebastiano is a CS M.Sc. currently working at musixmatch as an Android engineer. He is passionate about mobile security and cutting edge technologies, matured while working with companies like Megavideo and several other startups. He now actively contributes to the Android community with online articles and tutorials.",
+  "website": "https://medium.com/@rotxed",
+  "twitter": "rotxed",
+  "github": "dextorer",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/sebastiano-gottardo.jpg"
+}, {
+  "id": 68,
+  "name": "Vinh To",
+  "title": "Software Engineer @ NASA and SGT, Inc.",
+  "bio": "He has been working at NASA Ames Research Center since 2002 after receiving a B.S. degree in Computer Science and Engineering from UCLA. He is currently working in the Intelligent Robotics Group (IRG) at Ames. While in IRG he has worked on 5 generations of rovers that has taken him to deserts in Arizona to craters in the Canadian Arctic. His current project is building a free flying robot for the International Space Station (ISS).",
+  "website": null,
+  "twitter": null,
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Vihn-To.jpg"
+}, {
+  "id": 69,
+  "name": "Luca Falsina",
+  "title": "Graduate Software Developer @ Booking.com",
+  "bio": "Luca is currently employed as a Graduate Software Developer at Booking.com in Amsterdam.\nPreviously, he worked at Amazon as a Software Engineer Intern in the team responsible of automatizing the localization of all Amazon’ products across the different marketplaces.\nLuca received his Master degree cum laude at Politecnico di Milano in April 2015, and during his master thesis he developed Grab’n Run, an open-source Java library to secure dynamic code loading on Android devices. He had a chance to present this work at the new Google Italia headquarter for the GDG of Milan, as well as at Droidcon IT 2015 in Turin. Thanks to joint contributions between researchers from Polimi and UCSB university, an article was published based on this work, and Luca presented it at a prestigious security conference, ACSAC 2015, in Los Angeles.\nAlthough not directly working with Android anymore, Luca still keeps a genuine interest, and tries to deepen his knowledge about it during his free time.",
+  "website": null,
+  "twitter": "lfalsina",
+  "github": "lukeFalsina",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2015/02/luca-falsina.jpg"
+}, {
+  "id": 70,
+  "name": "Antonio Mallia",
+  "title": "Software Engineer @ IIT-CNR",
+  "bio": "I am a Software Engineer, mainly focused on web services, distributed systems and software design.\nCurrently working at the Italian .it domain Registry, one of my past project has been Androidblog.it, a widely read source of news.\nI like to code, learn and experiment.",
+  "website": null,
+  "twitter": "antonio_mallia",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Antonio-Mallia.png"
+}, {
+  "id": 71,
+  "name": "Nicola Corti",
+  "title": "Android Software Developer @ Monetas",
+  "bio": "Android Software Engineer since 2.2, Free and Open source developer since I remember.\nCurrently working as a Freelance developer @ Monetas Inc, developing the wallet app for one of the more advanced cryptofinance platform.\nMy main focus are HCI, wearable devices and gesture recognition. In the freetime I love (apart from coding) hicking, photography and guitar playing.",
+  "website": null,
+  "twitter": "cortinico",
+  "github": "cortinico",
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Nicola-Corti.jpg"
 }]
