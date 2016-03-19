@@ -5,7 +5,10 @@ import android.support.annotation.NonNull;
 public enum Room {
 
     NONE(0, ""),
-    MAIN_HALL(1, "Main Hall");
+    SALA_500(1, "Sala 500"),
+    LONDRA_210(2, "Londra"),
+    MADRID_120(3, "Madrid"),
+    PARIGI_75(4, "Parigi");
 
     public final int id;
     public final String name;

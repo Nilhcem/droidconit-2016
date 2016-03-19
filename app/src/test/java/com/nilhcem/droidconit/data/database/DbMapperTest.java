@@ -70,14 +70,14 @@ public class DbMapperTest {
     public void should_convert_app_session_to_db_session() {
         // Given
         List<Speaker> speakers = singletonList(new Speaker(7, null, null, null, null, null, null, null));
-        Session session = new Session(11, Room.MAIN_HALL.name, speakers, "title", "description", now, now.plusMinutes(45));
+        Session session = new Session(11, Room.SALA_500.name, speakers, "title", "description", now, now.plusMinutes(45));
 
         // When
         com.nilhcem.droidconit.data.database.model.Session result = dbMapper.fromAppSession(session);
 
         // Then
         assertThat(result.id).isEqualTo(11);
-        assertThat(result.roomId).isEqualTo(Room.MAIN_HALL.id);
+        assertThat(result.roomId).isEqualTo(Room.SALA_500.id);
         assertThat(result.speakersIds).isEqualTo("[7]");
         assertThat(result.title).isEqualTo("title");
         assertThat(result.description).isEqualTo("description");
@@ -121,5 +121,4 @@ public class DbMapperTest {
         assertThat(result.get(0).getGithub()).isEqualTo("nilhcem");
         assertThat(result.get(0).getPhoto()).isEqualTo("photo");
     }
-
 }
