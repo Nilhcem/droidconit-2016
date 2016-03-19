@@ -18,7 +18,7 @@
   "id": 3,
   "startAt": "2016-04-07 10:00",
   "duration": 40,
-  "roomId": 0,
+  "roomId": 1,
   "speakersId": [1],
   "title": "Android Development Today",
   "description": "The Developer Preview of the next release of Android is here early this year, with a host of new features and APIs such as multi-window mode, notification enhancements and many behavior changes targeting battery life and system health. It’s the best time to start testing your apps to make sure you’re ready for the final release later this year. We are also eager to hear feedback on the N Developer Preview so that we can make sure we deliver the best possible product for developers to build upon."
@@ -44,7 +44,7 @@
   "duration": 40,
   "roomId": 2,
   "speakersId": [3],
-  "title": "#PERFMATTERS for Android",
+  "title": "Application Architecture for Scaled Agile",
   "description": "An agile software development was introduced to focus more on individuals, interactions, working software, customer collaboration and responding to change. An agile team usually consists of 4 to 6 members including product owner, testers, designers, developers and agile coach. It is straightforward for smaller companies to apply. As a company grows, you might wonder how to keep the agile. Spotify has mainly formed agile teams based on features. However, teams’ autonomous could be restricted by an application architecture. We’ve changed an application architecture to support a scaled agile. Several ideas are borrowed from a longest time used architecture, WWW(world wide web). In this talk, we describe our application architecture with lessons."
 }, {
   "id": 7,
@@ -436,7 +436,7 @@
   "duration": 50,
   "roomId": 2,
   "speakersId": [52],
-  "title": "fun things (you: CanDo <in Kotlin> ) = …",
+  "title": "fun things (you: CanDo<in Kotlin>) = …",
   "description": "There is no silver bullet for Android boilerplate, but some bullets are more fun than other.\nDuring the last year Kotlin has grown in popularity in Android community. If you haven’t heard of it or did hear something, but are not convinced yet, I will show you why it’s so fun to start coding in it. We’ll see how it improves readability and safety of your code, while not making your app any less performant than Java. When you get your hands dirty with Kotlin, you will notice it can replace quite a few popular Android libraries.\nThe whole session is planned as pure livecoding, so make sure to drink a shot of espresso before joining!"
 }, {
   "id": 47,
