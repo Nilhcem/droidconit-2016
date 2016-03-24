@@ -59,9 +59,9 @@
   "startAt": "2016-04-07 11:10",
   "duration": 40,
   "roomId": 4,
-  "speakersId": [6, 7],
-  "title": "Bonjour Android, it’s ZeroConf",
-  "description": "ZeroConf is a protocol that helps us advertising a service or discovering the available services in our networks. This is how Chromecast works, but why don’t we go deeper?\n\n- What is ZeroConf\n– Why is it needed\n– Discovery VS Advertising\n– What are the different implementations that we can find on Android\n– And on server side?\n– Small demo and code show"
+  "speakersId": [67],
+  "title": "To ∞ (~65K) and beyond!",
+  "description": "It’s 2016 even for us, Android developers. We can expect lots of new awesome libraries, services and tools to make our life easier.\nUnfortunately though, among many of the problems that we carry over from the past years, the loathed, dreadful,\nwhy-in-the-name-of-Andy-Rubin limit of 65536 methods is the most notable of them.\n\nThis talk focuses on analyzing this “condition” from a pragmatic and down-to-earth perspective for developers. You will get to\nunderstand what exactly this problem is about and why it exists in the first place. Moreover, we will go through the possible solutions,\neach one of them presented with pros and cons. At the end of this talk, you should be able to evaluate which solution best suits your app,\nand even if you need a solution in the first place.\n\nBonus round: useful tips and some sarcasm."
 }, {
   "id": 9,
   "startAt": "2016-04-07 11:50",
@@ -99,9 +99,9 @@
   "startAt": "2016-04-07 12:10",
   "duration": 50,
   "roomId": 4,
-  "speakersId": [11],
-  "title": "Android Forensics with Free/Open Source Tools",
-  "description": "How many sensitive data are present in our mobile devices?\nSensitive data is really safe?\nEncrypted messages, are really encrypted?\nHow the police investigates our device?\nMy talk wants to answer all the questions above.\nI will analyze all the methods of acquisition and analysis of a terminal Android with free/open source software.\nThe proposed scenario is absolutely real.\nAfter analyzing in detail all the methods of acquisition and after describing the various types of acquisition, I will analyze in detail the main messaging applications like Whatsapp and Telegram.\nFor example, I will see where to find and how to recover deleted messages.\nMany other examples will be illustrated. I will fulfill a live demo with my android device.\nI will present a complete analysis of the device."
+  "speakersId": [70, 71],
+  "title": "Backend for Android Developers",
+  "description": "We believe that every Android developer should be able to write a simple but powerful backend without having to maintain a massive boilerplate codebase.\nSo, what’s better than a Java framework and a NoSQL database for storing your data?\nMoreover, the client code can become really hard to maintain when dealing with common tasks such as RESTful requests or user authentication.\nIn spending time trying to reinvent the wheel, you will lose your focus on what’s really important: your users.\nIn this talk we will learn how to develop a full stack project, from the backend, through the protocol to the Android application."
 }, {
   "id": 14,
   "startAt": "2016-04-07 13:00",
@@ -163,9 +163,9 @@
   "startAt": "2016-04-07 14:40",
   "duration": 50,
   "roomId": 3,
-  "speakersId": [20],
-  "title": "Engage and retain users in the Android world",
-  "description": "Making your app engaging, so that users who have installed it actually use it, is crucial to your app’s success. In this speech, we explore a number of Android and Google features you can take advantage of that help make your app a more useful and embedded part of the user’s Android experience."
+  "speakersId": [28],
+  "title": "From clockwork to smartwatch",
+  "description": "The measurement of time has always had a big impact on our society. The way we tell the time greatly evolved especially in the last centuries, leading to the creation of always more accurate tools, up to the first wearable technological devices.\n\nIn this talk you will explore the evolution of horology. You will discover the common elements that remained unchanged across the centuries, and how you can still find them in modern wearable devices. You will also learn about how different it is to develop for a smartwatch, compared to a smartphone, especially considering the Android Wear platform."
 }, {
   "id": 22,
   "startAt": "2016-04-07 14:40",
@@ -219,9 +219,9 @@
   "startAt": "2016-04-07 16:20",
   "duration": 40,
   "roomId": 2,
-  "speakersId": [28],
-  "title": "From clockwork to smartwatch",
-  "description": "The measurement of time has always had a big impact on our society. The way we tell the time greatly evolved especially in the last centuries, leading to the creation of always more accurate tools, up to the first wearable technological devices.\n\nIn this talk you will explore the evolution of horology. You will discover the common elements that remained unchanged across the centuries, and how you can still find them in modern wearable devices. You will also learn about how different it is to develop for a smartwatch, compared to a smartphone, especially considering the Android Wear platform."
+  "speakersId": [20],
+  "title": "Engage and retain users in the Android world",
+  "description": "Making your app engaging, so that users who have installed it actually use it, is crucial to your app’s success. In this speech, we explore a number of Android and Google features you can take advantage of that help make your app a more useful and embedded part of the user’s Android experience."
 }, {
   "id": 29,
   "startAt": "2016-04-07 16:20",
@@ -269,7 +269,7 @@
   "roomId": 0,
   "speakersId": null,
   "title": "PARTY!",
-  "description": null
+  "description": "After dinner from 21pm at Dash Kitchen https://www.facebook.com/dash-kitchen-426868297518612/"
 }, {
   "id": 35,
   "startAt": "2016-04-08 09:30",
@@ -555,9 +555,9 @@
   "startAt": "2016-04-08 17:10",
   "duration": 50,
   "roomId": 4,
-  "speakersId": [67],
-  "title": "To ∞ (~65K) and beyond!",
-  "description": "It’s 2016 even for us, Android developers. We can expect lots of new awesome libraries, services and tools to make our life easier.\nUnfortunately though, among many of the problems that we carry over from the past years, the loathed, dreadful,\nwhy-in-the-name-of-Andy-Rubin limit of 65536 methods is the most notable of them.\n\nThis talk focuses on analyzing this “condition” from a pragmatic and down-to-earth perspective for developers. You will get to\nunderstand what exactly this problem is about and why it exists in the first place. Moreover, we will go through the possible solutions,\neach one of them presented with pros and cons. At the end of this talk, you should be able to evaluate which solution best suits your app,\nand even if you need a solution in the first place.\n\nBonus round: useful tips and some sarcasm."
+  "speakersId": [6, 7],
+  "title": "Bonjour Android, it’s ZeroConf",
+  "description": "ZeroConf is a protocol that helps us advertising a service or discovering the available services in our networks. This is how Chromecast works, but why don’t we go deeper?\n\n- What is ZeroConf\n– Why is it needed\n– Discovery VS Advertising\n– What are the different implementations that we can find on Android\n– And on server side?\n– Small demo and code show"
 }, {
   "id": 71,
   "startAt": "2016-04-08 18:00",
@@ -587,9 +587,9 @@
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 4,
-  "speakersId": [70, 71],
-  "title": "Backend for Android Developers",
-  "description": "We believe that every Android developer should be able to write a simple but powerful backend without having to maintain a massive boilerplate codebase.\nSo, what’s better than a Java framework and a NoSQL database for storing your data?\nMoreover, the client code can become really hard to maintain when dealing with common tasks such as RESTful requests or user authentication.\nIn spending time trying to reinvent the wheel, you will lose your focus on what’s really important: your users.\nIn this talk we will learn how to develop a full stack project, from the backend, through the protocol to the Android application."
+  "speakersId": [11],
+  "title": "Android Forensics with Free/Open Source Tools",
+  "description": "How many sensitive data are present in our mobile devices?\nSensitive data is really safe?\nEncrypted messages, are really encrypted?\nHow the police investigates our device?\nMy talk wants to answer all the questions above.\nI will analyze all the methods of acquisition and analysis of a terminal Android with free/open source software.\nThe proposed scenario is absolutely real.\nAfter analyzing in detail all the methods of acquisition and after describing the various types of acquisition, I will analyze in detail the main messaging applications like Whatsapp and Telegram.\nFor example, I will see where to find and how to recover deleted messages.\nMany other examples will be illustrated. I will fulfill a live demo with my android device.\nI will present a complete analysis of the device."
 }, {
   "id": 75,
   "startAt": "2016-04-08 18:50",
