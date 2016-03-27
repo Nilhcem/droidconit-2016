@@ -355,9 +355,10 @@
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 1,
-  "speakersId": null,
-  "title": "Microsoft",
-  "description": null
+  "speakersId": [72, 73],
+  "title": "Xamarin: How to Build Test and Deploy for Android and the “rest” of the World",
+  "description": "Do you wanna win the cross-platform challenge for the next years?
+Think about your Android skills and cast yourself to iOS passing through Windows, Gears/Watch, Kindle, Mac. With a single solution and a single language, combined with the cloud support, you’ll get the real native apps, with native performance and capabilities in every platform you want. This is the world of Xamarin!"
 }, {
   "id": 47,
   "startAt": "2016-04-08 12:10",
