@@ -572,9 +572,9 @@ Think about your Android skills and cast yourself to iOS passing through Windows
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 2,
-  "speakersId": null,
-  "title": "T-UNION",
-  "description": null
+  "speakersId": [74],
+  "title": "TBD",
+  "description": "tbd"
 }, {
   "id": 73,
   "startAt": "2016-04-08 18:00",
