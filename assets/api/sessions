@@ -51,7 +51,7 @@
   "startAt": "2016-04-07 11:10",
   "duration": 40,
   "roomId": 3,
-  "speakersId": [4, 5],
+  "speakersId": [4],
   "title": "Drive together not the same",
   "description": "Connected cars are among us.\nToday we can use our smartphone in a safer way while driving not touching them at all! Let’s see together what we can do as developers to integrate our apps in Automotive Systems in the marketplace.\nWhat platform like Android Auto, Sync AppLink and Mirrorlink are offering to us to make a safe driving experience for our customers."
 }, {
@@ -355,10 +355,9 @@
   "startAt": "2016-04-08 12:10",
   "duration": 40,
   "roomId": 1,
-  "speakersId": [72, 73],
+  "speakersId": [72, 5],
   "title": "Xamarin: How to Build Test and Deploy for Android and the “rest” of the World",
-  "description": "Do you wanna win the cross-platform challenge for the next years?
-Think about your Android skills and cast yourself to iOS passing through Windows, Gears/Watch, Kindle, Mac. With a single solution and a single language, combined with the cloud support, you’ll get the real native apps, with native performance and capabilities in every platform you want. This is the world of Xamarin!"
+  "description": "Do you wanna win the cross-platform challenge for the next years?\nThink about your Android skills and cast yourself to iOS passing through Windows, Gears/Watch, Kindle, Mac. With a single solution and a single language, combined with the cloud support, you’ll get the real native apps, with native performance and capabilities in every platform you want. This is the world of Xamarin!"
 }, {
   "id": 47,
   "startAt": "2016-04-08 12:10",
@@ -396,7 +395,7 @@ Think about your Android skills and cast yourself to iOS passing through Windows
   "startAt": "2016-04-08 12:50",
   "duration": 40,
   "roomId": 2,
-  "speakersId": [46, 47],
+  "speakersId": [46],
   "title": "Crafting Great Hypotheses",
   "description": "Building business apps is no joke.\nAs designers, we are often asked to create apps that have the wow factor, they need to be distinctive, and we are rarely appreciated when we create something pragmatic, something that simply works.\nMoving forward in the face of uncertainty, it is essential to devise a plan, an UX roadmap that includes research, objectives and tests.\nIn a world where success is just when preparation meets opportunity, starting with ready to be validated solid hypotheses is the secret souce to a project without risks. Are you a risk taker?"
 }, {
@@ -572,9 +571,9 @@ Think about your Android skills and cast yourself to iOS passing through Windows
   "startAt": "2016-04-08 18:00",
   "duration": 50,
   "roomId": 2,
-  "speakersId": [74],
+  "speakersId": [47],
   "title": "Sun Tzu's the Art of Mobile Gaming",
-  "description": "tbd"
+  "description": "Mobile Gaming became a major phenomena in the Industry, a multibillion business that reshaped the typical definition of gamer and transformed the way developers approach game development. In this talk we are going to highlight challenges and opportunities of Mobile Gaming and the strategies to face the “Battle for Mobile”.\n\n“If you know the enemy and know yourself, you need not fear the result of a hundred battles. If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.”"
 }, {
   "id": 73,
   "startAt": "2016-04-08 18:00",

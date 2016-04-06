@@ -36,13 +36,13 @@
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Giovanni-Laquidara.jpg"
 }, {
   "id": 5,
-  "name": "Alessandro Mancini",
-  "title": "Senior software developer @Snapback",
-  "bio": "Very passionate about Android development, Golang and coding.\nMember of Google Developer Group of Rome.\nSpeaker in many IT conferences.",
+  "name": "Giancarlo Sudano",
+  "title": "Technical Solution Professional @ Microsoft",
+  "bio": "Giancarlo is currently Technical Solution Professional for Microsoft Italy and is involved in Developing Tools and ALM/DevOps. The experience in the ALM world is derived from his previous years of consulting in which he was awarded the MVP award in the category Visual Studio ALM and Solution Architect. He was also Microsoft Certified Trainer and has over the years developed a strong passion for all architectural issues.",
   "website": null,
-  "twitter": "nichel",
-  "github": "nichel",
-  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/Aless-mancini.jpg"
+  "twitter": "giancarlosudano",
+  "github": null,
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/37ddd92.jpg"
 }, {
   "id": 6,
   "name": "Roberto Orgiu",
@@ -414,13 +414,13 @@
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/02/HOANGhuynh.jpg"
 }, {
   "id": 47,
-  "name": "Luca Gaverina",
-  "title": null,
+  "name": "Alessandro Salute",
+  "title": "Game Designer @ 34BigThings",
   "bio": null,
-  "website": "https://500px.com/gheivs",
-  "twitter": null,
+  "website": null,
+  "twitter": "Pocket_Infinity",
   "github": null,
-  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/luca-gaverina.jpg"
+  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/AAEAAQAAAAAAAALmAAAAJGI2MDBmYjNmLWZjYjktNGU0OS1hZDJkLWNhYzhhMjYxNzI1YQ.jpg"
 }, {
   "id": 48,
   "name": "Alessio Cucini",
@@ -646,22 +646,4 @@
   "twitter": "_jetiba",
   "github": null,
   "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/AAEAAQAAAAAAAAQFAAAAJGRjZDkyZWIxLWI2NDMtNGIyOC1hMGI0LTIwZTNkMDM1NzE2OA.jpg"
-}, {
-  "id": 73,
-  "name": "Giancarlo Sudano",
-  "title": "Technical Solution Professional @ Microsoft",
-  "bio": "Giancarlo is currently Technical Solution Professional for Microsoft Italy and is involved in Developing Tools and ALM/DevOps. The experience in the ALM world is derived from his previous years of consulting in which he was awarded the MVP award in the category Visual Studio ALM and Solution Architect. He was also Microsoft Certified Trainer and has over the years developed a strong passion for all architectural issues.",
-  "website": null,
-  "twitter": "giancarlosudano",
-  "github": null,
-  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/37ddd92.jpg"
-}, {
-  "id": 74,
-  "name": "Alessandro Salute",
-  "title": "Game Designer @ 34BigThings",
-  "bio": null,
-  "website": null,
-  "twitter": "Pocket_Infinity",
-  "github": null,
-  "photo": "http://it.droidcon.com/2016/wp-content/uploads/2016/03/AAEAAQAAAAAAAALmAAAAJGI2MDBmYjNmLWZjYjktNGU0OS1hZDJkLWNhYzhhMjYxNzI1YQ.jpg"
 }]
