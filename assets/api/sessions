@@ -252,7 +252,7 @@
   "duration": 50,
   "roomId": 1,
   "speakersId": [10],
-  "title": "10 ways to improve your Andorid app performance",
+  "title": "10 ways to improve your Android app performance",
   "description": "As Developer Advocate at Google, I am exposed to various Android apps. I bring together several rules of thumb: working, best practice solutions for making your Android app better, while avoiding the common pitfalls.\n\nActivity leaks\nScrolling\nConcurrency APIs 1\nSystem Abuse & Deprecation\nArchitecture\nAppendix Concurrency APIs 2"
 }, {
   "id": 33,
