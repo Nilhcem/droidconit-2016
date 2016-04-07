@@ -477,7 +477,7 @@
   "roomId": 3,
   "speakersId": [57],
   "title": "World-Class Testing Development Pipeline for Android",
-  "description": "Test our Android applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test an how to design a testing development pipeline. Using real production code we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: Espresso, Robotium, MockWebServer, Dagger, JUnit, Mockito, etc.\n\nIf you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
+  "description": "Test our Android applications is not an easy task. When we start writing tests most of the time we don’t know what to test and how, our code is not as testable as it should, we write tests but sometimes they are flaky or test nothing. In this talk we are going to talk about what to test and how to design a testing development pipeline. Using real production code we will show how to test our application using different approaches based on different testing strategies and frameworks or libraries like: Espresso, Robotium, MockWebServer, Dagger, JUnit, Mockito, etc.\n\nIf you want to learn how to design a testing development pipeline, how to test your application layers using different strategies and write tests you can trust, this is your talk."
 }, {
   "id": 62,
   "startAt": "2016-04-08 15:20",
